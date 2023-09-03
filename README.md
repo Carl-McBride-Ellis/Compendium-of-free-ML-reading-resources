@@ -16,6 +16,7 @@
 * ["An Introduction to Statistical Learning with Applications in Python"](https://hastie.su.domains/ISLP/ISLP_website.pdf) by James, Witten, Hastie, Tibshirani, y Taylor
 * ["The Elements of Statistical Learning"](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf) by Hastie, Tibshirani y Friedman
 * ["Pattern Recognition and Machine Learning"](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) by Christopher M. Bishop
+* ["Probabilistic Machine Learning: Advanced Topics"](https://github.com/probml/pml2-book/releases/latest/download/book2.pdf) by Kevin Patrick Murphy
 * ["A Brief Introduction to Machine Learning for Engineers"](https://arxiv.org/pdf/1709.02840.pdf) by Osvaldo Simeone
 * ["Machine Learning: The Basics"](https://arxiv.org/pdf/1805.05052.pdf) by Alexander Jung
 * ["Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning"](https://arxiv.org/pdf/1811.12808.pdf) by Sebastian Raschka
