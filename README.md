@@ -9,7 +9,9 @@
 * ["Mathematics for Machine Learning"](https://mml-book.github.io/book/mml-book.pdf) by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong
 
 ### Statistics
+* ["Probability and Statistics - The Science of Uncertainty"](https://www.utstat.toronto.edu/mikevans/jeffrosenthal/book.pdf) by Michael J. Evans and Jeffrey S. Rosenthal
 * ["A History of the Central Limit Theorem From Classical to Modern Probability Theory"](https://www.medicine.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/HistoryCentralLimitTheorem.pdf) by Hans Fischer
+* ["Think Bayes: Bayesian Statistics Made Simple"](https://www.greenteapress.com/thinkbayes/thinkbayes.pdf) by Allen B. Downey
 
 ### Linear regression
 * ["The Truth about Linear Regression"](https://www.stat.cmu.edu/~cshalizi/TALR/TALR.pdf) by Cosma Rohilla Shalizi
@@ -21,6 +23,7 @@
 * ["An Introduction to Statistical Learning with Applications in Python"](https://hastie.su.domains/ISLP/ISLP_website.pdf) by James, Witten, Hastie, Tibshirani, y Taylor
 * ["The Elements of Statistical Learning"](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf) by Hastie, Tibshirani y Friedman
 * ["Pattern Recognition and Machine Learning"](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) by Christopher M. Bishop
+* ["Probabilistic Machine Learning: An Introduction"](https://github.com/probml/pml-book/releases/latest/download/book1.pdf) by Kevin Patrick Murphy
 * ["Probabilistic Machine Learning: Advanced Topics"](https://github.com/probml/pml2-book/releases/latest/download/book2.pdf) by Kevin Patrick Murphy
 * ["Understanding Machine Learning: From Theory to Algorithms"](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) by Shai Shalev-Shwartz and Shai Ben-David
 * ["Foundations of Machine Learning"](https://www.dropbox.com/s/38p0j6ds5q9c8oe/10290.pdf) by Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar
@@ -34,6 +37,9 @@
 * ["Hyper-Parameter Optimization: A Review of Algorithms and Applications"](https://arxiv.org/pdf/2003.05689.pdf) by Tong Yu and Hong Zhu
 * ["How to avoid machine learning pitfalls: a guide for academic researchers"](https://arxiv.org/pdf/2108.02497.pdf) by Michael A. Lones
 * ["Online Learning: A Comprehensive Survey"](https://arxiv.org/pdf/1802.02871.pdf) by Steven C. H. Hoi, Doyen Sahoo, Jing Lu and Peilin Zhao
+
+### Deep learning / neural networks
+* ["The Principles of Deep Learning Theory"](https://arxiv.org/pdf/2106.10165.pdf) by Daniel A. Roberts, Sho Yaida, and Boris Hanin
 
 ### Reinforcement Learning
 * ["Reinforcement Learning: An Introduction"](http://www.incompleteideas.net/book/RLbook2020.pdf) by Richard S. Sutton and Andrew G. Barto
@@ -60,4 +66,4 @@
 * ["Interpretable Machine Learning: A Guide for Making Black Box Models Explainable"](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
 
 
-<sub>Note: All [arXiv](https://arxiv.org/) papers are inherently free, and all books have been made freely available by the respective authors/publishers.</sub>
+<sub>Note: All [arXiv](https://arxiv.org/) papers are inherently free, and all books have been made freely available by their respective authors/publishers.</sub>
