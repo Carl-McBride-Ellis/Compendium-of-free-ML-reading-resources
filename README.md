@@ -43,6 +43,7 @@
 * ["The Modern Mathematics of Deep Learning"](https://arxiv.org/pdf/2105.04026.pdf) by Julius Berner, Philipp Grohs, Gitta Kutyniok, and Philipp Petersen
 * ["The Principles of Deep Learning Theory"](https://arxiv.org/pdf/2106.10165.pdf) by Daniel A. Roberts, Sho Yaida, and Boris Hanin
 * ["Machine learning with neural networks"](https://arxiv.org/pdf/1901.05639.pdf) by Bernhard Mehlig
+* ["Dive into Deep Learning"](https://arxiv.org/pdf/2106.11342.pdf) by Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola
 
 ### Reinforcement Learning
 * ["Reinforcement Learning: An Introduction"](http://www.incompleteideas.net/book/RLbook2020.pdf) by Richard S. Sutton and Andrew G. Barto
