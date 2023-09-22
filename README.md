@@ -29,6 +29,7 @@
 * ["Foundations of Machine Learning"](https://www.dropbox.com/s/38p0j6ds5q9c8oe/10290.pdf) by Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar
 * ["Gaussian Processes for Machine Learning"](https://gaussianprocess.org/gpml/chapters/RW.pdf) by Carl Edward Rasmussen and Christopher K. I. Williams
 * ["R for Data Science"](https://r4ds.hadley.nz/) by by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund
+* ["Information Theory, Inference, and Learning Algorithms"](https://www.inference.org.uk/itprnn/book.pdf) by David J. C. MacKay
 
 ##### arXiv
 * ["A Brief Introduction to Machine Learning for Engineers"](https://arxiv.org/pdf/1709.02840.pdf) by Osvaldo Simeone
