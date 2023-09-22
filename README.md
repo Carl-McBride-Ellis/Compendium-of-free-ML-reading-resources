@@ -60,11 +60,12 @@
 ### Feature engineering
 * ["Feature Engineering and Selection: A Practical Approach for Predictive Models"](http://www.feat.engineering/) by Max Kuhn and Kjell Johnson
 
-### Time series
+### Time series / forecasting
 * ["Forecasting: Principles and Practice"](https://otexts.com/fpp3/) by Rob J Hyndman and George Athanasopoulos
 * ["Forecasting: theory and practice"](https://arxiv.org/pdf/2012.03854.pdf) by Fotios Petropoulos *et al.*
 * ["Forecast Evaluation for Data Scientists: Common Pitfalls and Best Practices"](https://arxiv.org/pdf/2203.10716.pdf) by Hansika Hewamalagea, Klaus Ackermannb, and Christoph Bergmeir
 * ["A Comprehensive Survey of Regression Based Loss Functions for Time Series Forecasting"](https://arxiv.org/pdf/2211.02989.pdf) by Aryan Jadon, Avinash Patil and Shruti Jadon
+* ["Demand Forecasting for Executives and Professionals"](https://dfep.netlify.app/) by Stephan Kolassa, Bahman Rostami-Tabar, and Enno Siemsen
 
 
 ### Explainability/interpretability
