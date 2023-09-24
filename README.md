@@ -31,8 +31,9 @@
 * :orange_book: ["Understanding Machine Learning: From Theory to Algorithms"](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html) by Shai Shalev-Shwartz and Shai Ben-David
 * :orange_book: ["Foundations of Machine Learning"](https://www.dropbox.com/s/38p0j6ds5q9c8oe/10290.pdf) by Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar
 * :orange_book: ["Gaussian Processes for Machine Learning"](https://gaussianprocess.org/gpml/chapters/RW.pdf) by Carl Edward Rasmussen and Christopher K. I. Williams
-* :earth_africa: ["R for Data Science"](https://r4ds.hadley.nz/) by by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund
 * :orange_book: ["Information Theory, Inference, and Learning Algorithms"](https://www.inference.org.uk/itprnn/book.pdf) by David J. C. MacKay
+* :earth_africa: ["R for Data Science"](https://r4ds.hadley.nz/) by by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund
+
 
 ##### arXiv
 * :orange_book: ["A Brief Introduction to Machine Learning for Engineers"](https://arxiv.org/pdf/1709.02840.pdf) by Osvaldo Simeone
@@ -51,6 +52,9 @@
 
 ### Reinforcement learning
 * :orange_book: ["Reinforcement Learning: An Introduction"](http://www.incompleteideas.net/book/RLbook2020.pdf) by Richard S. Sutton and Andrew G. Barto
+
+### Recommender systems
+* :orange_book: ["Recommender Systems"](https://arxiv.org/pdf/1202.1112.pdf) by Linyuan Lü, Matus Medo, Chi Ho Yeung, Yi-Cheng Zhang, Zi-Ke Zhang, and Tao Zhou
 
 ### Computer vision
 * :orange_book: ["Computer Vision:  Models, Learning, and Inference"](http://www.computervisionmodels.com/) by Simon J. D. Prince
