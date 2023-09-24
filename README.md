@@ -56,7 +56,7 @@
 * :orange_book: ["Computer Vision:  Models, Learning, and Inference"](http://www.computervisionmodels.com/) by Simon J. D. Prince
 
 ### Natural language processing
-
+* :orange_book: ["Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition"](https://web.stanford.edu/~jurafsky/slp3/ed3book_jan72023.pdf) by  Dan Jurafsky and James H. Martin 
 * :earth_africa: ["Text Mining with R: A Tidy Approach"](https://www.tidytextmining.com/) by Julia Silge and David Robinson
 
 ### Causality
