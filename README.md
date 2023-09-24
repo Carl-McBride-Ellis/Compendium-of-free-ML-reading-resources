@@ -52,6 +52,13 @@
 ### Reinforcement learning
 * :orange_book: ["Reinforcement Learning: An Introduction"](http://www.incompleteideas.net/book/RLbook2020.pdf) by Richard S. Sutton and Andrew G. Barto
 
+### Computer vision
+* :orange_book: ["Computer Vision:  Models, Learning, and Inference"](http://www.computervisionmodels.com/) by Simon J. D. Prince
+
+### Natural language processing
+
+* :earth_africa: ["Text Mining with R: A Tidy Approach"](https://www.tidytextmining.com/) by Julia Silge and David Robinson
+
 ### Causality
 * :orange_book: ["Causal Machine Learning: A Survey and Open Problems"](https://arxiv.org/pdf/2206.15475.pdf) by Jean Kaddour, Aengus Lynch, Qi Liu, Matt J. Kusner, and Ricardo Silva
 
