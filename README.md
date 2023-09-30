@@ -15,6 +15,7 @@
 * :orange_book: ["Probability and Statistics - The Science of Uncertainty"](https://www.utstat.toronto.edu/mikevans/jeffrosenthal/book.pdf) by Michael J. Evans and Jeffrey S. Rosenthal
 * :orange_book: ["A History of the Central Limit Theorem From Classical to Modern Probability Theory"](https://www.medicine.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/HistoryCentralLimitTheorem.pdf) by Hans Fischer
 * :orange_book: ["Think Bayes: Bayesian Statistics Made Simple"](https://www.greenteapress.com/thinkbayes/thinkbayes.pdf) by Allen B. Downey
+* :orange_book: ["Introduction to Bayesian Statistics"](https://www.stat.auckland.ac.nz/~brewer/stats331.pdf) by Brendon J. Brewer
 
 ### Linear regression
 * :orange_book: ["The Truth about Linear Regression"](https://www.stat.cmu.edu/~cshalizi/TALR/TALR.pdf) by Cosma Rohilla Shalizi
