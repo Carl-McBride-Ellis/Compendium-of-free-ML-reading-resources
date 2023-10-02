@@ -57,6 +57,10 @@
 ### Recommender systems
 * :orange_book: ["Recommender Systems"](https://arxiv.org/pdf/1202.1112.pdf) by Linyuan Lü, Matus Medo, Chi Ho Yeung, Yi-Cheng Zhang, Zi-Ke Zhang, and Tao Zhou
 
+### Anomaly detection
+* :earth_africa: ["That’s weird! Anomaly detection using R"](https://otexts.com/weird/) by Rob J. Hyndman
+
+
 ### Computer vision
 * :orange_book: ["Computer Vision:  Models, Learning, and Inference"](http://www.computervisionmodels.com/) by Simon J. D. Prince
 
