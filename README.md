@@ -4,6 +4,7 @@
 
 ### EDA and data cleaning
 * :earth_africa: ["Python for Data Analysis"](https://wesmckinney.com/book/) by Wes McKinney
+* :orange_book: ["SQL Notes for Professionals"](https://books.goalkicker.com/SQLBook/SQLNotesForProfessionals.pdf)
 * :earth_africa: ["Flexible Imputation of Missing Data"](https://stefvanbuuren.name/fimd/) by Stef van Buuren
 * :orange_book: ["Think Stats: Exploratory Data Analysis in Python"](https://greenteapress.com/thinkstats2/thinkstats2.pdf) by Allen B. Downey
 
@@ -36,7 +37,10 @@
 * :orange_book: ["Information Theory, Inference, and Learning Algorithms"](https://www.inference.org.uk/itprnn/book.pdf) by David J. C. MacKay
 * :orange_book: ["Mathematical Analysis of Machine Learning Algorithms"](https://tongzhang-ml.org/lt-book/lt-book.pdf) by Tong Zhang
 * :orange_book: ["A Comprehensive Guide to Machine Learning"](https://snasiriany.me/files/ml-book.pdf) by Soroush Nasiriany, Garrett Thomas, William Wang, Alex Yang, Jennifer Listgarten, and Anant Sahai
+* :orange_book: ["A Course in Machine Learning"](http://ciml.info/dl/v0_99/ciml-v0_99-all.pdf) by Hal Daumé III
+* :orange_book: ["Machine Learning - A First Course for Engineers and Scientists"](https://smlbook.org/book/sml-book-draft-latest.pdf) by Andreas Lindholm, Niklas Wahlström, Fredrik Lindsten, and Thomas B. Schön
 * :earth_africa: ["R for Data Science"](https://r4ds.hadley.nz/) by by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund
+* :earth_africa: ["Python Data Science Handbook"](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
 
 
 ##### arXiv
@@ -53,6 +57,7 @@
 * :orange_book: ["The Principles of Deep Learning Theory"](https://arxiv.org/pdf/2106.10165.pdf) by Daniel A. Roberts, Sho Yaida, and Boris Hanin
 * :orange_book: ["Machine learning with neural networks"](https://arxiv.org/pdf/1901.05639.pdf) by Bernhard Mehlig
 * :orange_book: ["Dive into Deep Learning"](https://arxiv.org/pdf/2106.11342.pdf) by Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola
+* :orange_book: ["Deep Learning on Graphs"](https://yaoma24.github.io/dlg_book/dlg_book.pdf) by Yao Ma and Jiliang Tang
 
 ### Reinforcement learning
 * :orange_book: ["Reinforcement Learning: An Introduction"](http://www.incompleteideas.net/book/RLbook2020.pdf) by Richard S. Sutton and Andrew G. Barto
