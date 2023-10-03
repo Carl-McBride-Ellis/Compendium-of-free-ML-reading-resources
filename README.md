@@ -34,6 +34,7 @@
 * :orange_book: ["Foundations of Machine Learning"](https://www.dropbox.com/s/38p0j6ds5q9c8oe/10290.pdf) by Mehryar Mohri, Afshin Rostamizadeh, and Ameet Talwalkar
 * :orange_book: ["Gaussian Processes for Machine Learning"](https://gaussianprocess.org/gpml/chapters/RW.pdf) by Carl Edward Rasmussen and Christopher K. I. Williams
 * :orange_book: ["Information Theory, Inference, and Learning Algorithms"](https://www.inference.org.uk/itprnn/book.pdf) by David J. C. MacKay
+* :orange_book: ["Mathematical Analysis of Machine Learning Algorithms"](https://tongzhang-ml.org/lt-book/lt-book.pdf) by Tong Zhang
 * :earth_africa: ["R for Data Science"](https://r4ds.hadley.nz/) by by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund
 
 
