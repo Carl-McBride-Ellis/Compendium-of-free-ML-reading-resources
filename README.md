@@ -75,6 +75,7 @@
 ### Natural language processing
 * :orange_book: ["Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition"](https://web.stanford.edu/~jurafsky/slp3/ed3book_jan72023.pdf) by  Dan Jurafsky and James H. Martin 
 * :earth_africa: ["Text Mining with R: A Tidy Approach"](https://www.tidytextmining.com/) by Julia Silge and David Robinson
+* :orange_book: ["Large Language Models"](https://arxiv.org/pdf/2307.05782.pdf) by Michael R. Douglas
 
 ### Causality
 * :orange_book: ["Causal Machine Learning: A Survey and Open Problems"](https://arxiv.org/pdf/2206.15475.pdf) by Jean Kaddour, Aengus Lynch, Qi Liu, Matt J. Kusner, and Ricardo Silva
