@@ -10,10 +10,12 @@
 
 ### Mathematics
 * :orange_book: ["Mathematics for Machine Learning"](https://mml-book.github.io/book/mml-book.pdf) by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong
+* :orange_book: ["Matrix Analysis"](https://tropp.caltech.edu/notes/Tro22-Matrix-Analysis-LN.pdf) by Joel A. Tropp
 * :earth_africa: ["Linear Algebra for Data Science with examples in R"](https://shainarace.github.io/LinearAlgebra/index.html) by Shaina Race Bennett
 
 ### Statistics
 * :orange_book: ["Probability and Statistics - The Science of Uncertainty"](https://www.utstat.toronto.edu/mikevans/jeffrosenthal/book.pdf) by Michael J. Evans and Jeffrey S. Rosenthal
+* :orange_book: ["Probability in High Dimensions"](https://tropp.caltech.edu/notes/Tro21-Probability-High-LN-corr.pdf) by Joel A. Tropp
 * :orange_book: ["A History of the Central Limit Theorem From Classical to Modern Probability Theory"](https://www.medicine.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/HistoryCentralLimitTheorem.pdf) by Hans Fischer
 * :orange_book: ["Think Bayes: Bayesian Statistics Made Simple"](https://www.greenteapress.com/thinkbayes/thinkbayes.pdf) by Allen B. Downey
 * :orange_book: ["Introduction to Bayesian Statistics"](https://www.stat.auckland.ac.nz/~brewer/stats331.pdf) by Brendon J. Brewer
