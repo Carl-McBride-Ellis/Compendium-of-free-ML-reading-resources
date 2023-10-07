@@ -4,9 +4,10 @@
 
 ### EDA and data cleaning
 * :earth_africa: ["Python for Data Analysis"](https://wesmckinney.com/book/) by Wes McKinney
-* :orange_book: ["SQL Notes for Professionals"](https://books.goalkicker.com/SQLBook/SQLNotesForProfessionals.pdf)
 * :earth_africa: ["Flexible Imputation of Missing Data"](https://stefvanbuuren.name/fimd/) by Stef van Buuren
 * :orange_book: ["Think Stats: Exploratory Data Analysis in Python"](https://greenteapress.com/thinkstats2/thinkstats2.pdf) by Allen B. Downey
+* :orange_book: ["SQL Notes for Professionals"](https://books.goalkicker.com/SQLBook/SQLNotesForProfessionals.pdf)
+
 
 ### Mathematics
 * :orange_book: ["Mathematics for Machine Learning"](https://mml-book.github.io/book/mml-book.pdf) by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong
@@ -16,6 +17,7 @@
 ### Statistics
 * :orange_book: ["Probability and Statistics - The Science of Uncertainty"](https://www.utstat.toronto.edu/mikevans/jeffrosenthal/book.pdf) by Michael J. Evans and Jeffrey S. Rosenthal
 * :orange_book: ["Probability in High Dimensions"](https://tropp.caltech.edu/notes/Tro21-Probability-High-LN-corr.pdf) by Joel A. Tropp
+* :orange_book: ["Introduction to Probability"](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/edit) by Joseph K. Blitzstein and Jessica Hwang
 * :orange_book: ["A History of the Central Limit Theorem From Classical to Modern Probability Theory"](https://www.medicine.mcgill.ca/epidemiology/hanley/bios601/GaussianModel/HistoryCentralLimitTheorem.pdf) by Hans Fischer
 * :orange_book: ["Think Bayes: Bayesian Statistics Made Simple"](https://www.greenteapress.com/thinkbayes/thinkbayes.pdf) by Allen B. Downey
 * :orange_book: ["Introduction to Bayesian Statistics"](https://www.stat.auckland.ac.nz/~brewer/stats331.pdf) by Brendon J. Brewer
@@ -41,6 +43,8 @@
 * :orange_book: ["A Comprehensive Guide to Machine Learning"](https://snasiriany.me/files/ml-book.pdf) by Soroush Nasiriany, Garrett Thomas, William Wang, Alex Yang, Jennifer Listgarten, and Anant Sahai
 * :orange_book: ["A Course in Machine Learning"](http://ciml.info/dl/v0_99/ciml-v0_99-all.pdf) by Hal Daumé III
 * :orange_book: ["Machine Learning - A First Course for Engineers and Scientists"](https://smlbook.org/book/sml-book-draft-latest.pdf) by Andreas Lindholm, Niklas Wahlström, Fredrik Lindsten, and Thomas B. Schön
+* :orange_book: ["Automated Machine Learning: Methods, Systems, Challenges"](https://link.springer.com/content/pdf/10.1007/978-3-030-05318-5.pdf) by  Frank Hutter, Lars Kotthoff, and Joaquin Vanschoren
+* :orange_book: ["Statistics and Machine Learning in Python"](https://raw.githubusercontent.com/duchesnay/data/master/pdf/StatisticsMachineLearningPython.pdf) by Edouard Duchesnay, Tommy Löfstedt, and Feki Younes
 * :earth_africa: ["R for Data Science"](https://r4ds.hadley.nz/) by by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund
 * :earth_africa: ["Python Data Science Handbook"](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
 
@@ -60,6 +64,7 @@
 * :orange_book: ["Machine learning with neural networks"](https://arxiv.org/pdf/1901.05639.pdf) by Bernhard Mehlig
 * :orange_book: ["Dive into Deep Learning"](https://arxiv.org/pdf/2106.11342.pdf) by Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola
 * :orange_book: ["Deep Learning on Graphs"](https://yaoma24.github.io/dlg_book/dlg_book.pdf) by Yao Ma and Jiliang Tang
+* :orange_book: ["Physics-based Deep Learning"](https://browse.arxiv.org/pdf/2109.05237.pdf) by Nils Thuerey, Philipp Holl, Maximilian Mueller, Patrick Schnell, Felix Trost, and Kiwon Um
 
 ### Reinforcement learning
 * :orange_book: ["Reinforcement Learning: An Introduction"](http://www.incompleteideas.net/book/RLbook2020.pdf) by Richard S. Sutton and Andrew G. Barto
