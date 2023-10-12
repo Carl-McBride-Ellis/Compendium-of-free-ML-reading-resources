@@ -75,7 +75,6 @@
 ### Anomaly detection
 * :earth_africa: ["That’s weird! Anomaly detection using R"](https://otexts.com/weird/) by Rob J. Hyndman
 
-
 ### Computer vision
 * :orange_book: ["Computer Vision:  Models, Learning, and Inference"](http://www.computervisionmodels.com/) by Simon J. D. Prince
 
@@ -86,6 +85,7 @@
 
 ### Causality
 * :orange_book: ["Causal Machine Learning: A Survey and Open Problems"](https://arxiv.org/pdf/2206.15475.pdf) by Jean Kaddour, Aengus Lynch, Qi Liu, Matt J. Kusner, and Ricardo Silva
+* :orange_book: ["Causal Factor Investing"](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9AFE270D7099B787B8FD4F4CBADE0C6E/9781009397292AR.pdf/causal-factor-investing.pdf) by Marcos M. López de Prado
 
 ### Conformal prediction
 * :orange_book: ["A Tutorial on Conformal Prediction"](https://arxiv.org/pdf/0706.3188.pdf) by Glenn Shafer and Vladimir Vovk
