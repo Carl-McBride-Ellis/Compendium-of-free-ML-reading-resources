@@ -86,6 +86,7 @@
 
 ### Causality
 * :orange_book: ["Causal Machine Learning: A Survey and Open Problems"](https://arxiv.org/pdf/2206.15475.pdf) by Jean Kaddour, Aengus Lynch, Qi Liu, Matt J. Kusner, and Ricardo Silva
+* :orange_book: ["Recent Developments in Causal Inference and Machine Learning"](https://www.annualreviews.org/doi/pdf/10.1146/annurev-soc-030420-015345) by Jennie E. Brand, Xiang Zhou, and Yu Xie
 * :orange_book: ["Causal Factor Investing"](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9AFE270D7099B787B8FD4F4CBADE0C6E/9781009397292AR.pdf/causal-factor-investing.pdf) by Marcos M. López de Prado
 
 ### Conformal prediction
