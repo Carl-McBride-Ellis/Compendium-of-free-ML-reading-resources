@@ -47,6 +47,7 @@
 * :orange_book: ["Machine Learning - A First Course for Engineers and Scientists"](https://smlbook.org/book/sml-book-draft-latest.pdf) by Andreas Lindholm, Niklas Wahlström, Fredrik Lindsten, and Thomas B. Schön
 * :orange_book: ["Automated Machine Learning: Methods, Systems, Challenges"](https://link.springer.com/content/pdf/10.1007/978-3-030-05318-5.pdf) by  Frank Hutter, Lars Kotthoff, and Joaquin Vanschoren
 * :orange_book: ["Statistics and Machine Learning in Python"](https://raw.githubusercontent.com/duchesnay/data/master/pdf/StatisticsMachineLearningPython.pdf) by Edouard Duchesnay, Tommy Löfstedt, and Feki Younes
+* :orange_book: ["Bayesian Reasoning and Machine Learning"](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/200620.pdf) by David Barber
 * :earth_africa: ["R for Data Science"](https://r4ds.hadley.nz/) by by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund
 * :earth_africa: ["Python Data Science Handbook"](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
 
