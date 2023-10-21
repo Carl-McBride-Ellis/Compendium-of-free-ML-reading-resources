@@ -13,6 +13,7 @@
 * :orange_book: ["Mathematics for Machine Learning"](https://mml-book.github.io/book/mml-book.pdf) by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong
 * :orange_book: ["Matrix Analysis"](https://tropp.caltech.edu/notes/Tro22-Matrix-Analysis-LN.pdf) by Joel A. Tropp
 * :orange_book: ["Linear Algebra Done Wrong"](https://www.math.brown.edu/streil/papers/LADW/LADW_2017-09-04.pdf) by Sergei Treil
+* :orange_book: ["Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning"](https://www.cis.upenn.edu/~jean/gbooks/geomath.html) by Jean Gallier and Jocelyn Quaintance
 * :earth_africa: ["Linear Algebra for Data Science with examples in R"](https://shainarace.github.io/LinearAlgebra/index.html) by Shaina Race Bennett
 
 ### Statistics
