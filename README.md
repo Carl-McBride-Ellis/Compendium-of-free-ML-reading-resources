@@ -69,6 +69,7 @@
 * :orange_book: ["Dive into Deep Learning"](https://arxiv.org/pdf/2106.11342.pdf) by Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola
 * :orange_book: ["Deep Learning on Graphs"](https://yaoma24.github.io/dlg_book/dlg_book.pdf) by Yao Ma and Jiliang Tang
 * :orange_book: ["Physics-based Deep Learning"](https://browse.arxiv.org/pdf/2109.05237.pdf) by Nils Thuerey, Philipp Holl, Maximilian Mueller, Patrick Schnell, Felix Trost, and Kiwon Um
+* :orange_book: ["The Little Book of Deep Learning"](https://fleuret.org/public/lbdl.pdf) by François Fleuret
 
 ### Reinforcement learning
 * :orange_book: ["Reinforcement Learning: An Introduction"](http://www.incompleteideas.net/book/RLbook2020.pdf) by Richard S. Sutton and Andrew G. Barto
