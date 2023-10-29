@@ -32,7 +32,7 @@
 
 ### Machine learning
 ##### Books
-* :orange_book: ["An Introduction to Statistical Learning with Applications in Python"](https://hastie.su.domains/ISLP/ISLP_website.pdf) by James, Witten, Hastie, Tibshirani, y Taylor
+* :orange_book: ["An Introduction to Statistical Learning with Applications in Python"](https://hastie.su.domains/ISLP/ISLP_website.pdf.view-in-google.html) by James, Witten, Hastie, Tibshirani, y Taylor
 * :orange_book: ["The Elements of Statistical Learning"](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf) by Hastie, Tibshirani y Friedman
 * :orange_book: ["Computer Age Statistical Inference: Algorithms, Evidence and Data Science"](https://hastie.su.domains/CASI_files/PDF/casi.pdf) by Bradley Efron and Trevor Hastie
 * :orange_book: ["Pattern Recognition and Machine Learning"](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) by Christopher M. Bishop
