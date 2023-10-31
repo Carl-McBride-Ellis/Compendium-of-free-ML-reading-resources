@@ -52,6 +52,7 @@
 * :orange_book: ["Bayesian Reasoning and Machine Learning"](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/200620.pdf) by David Barber
 * :earth_africa: ["R for Data Science"](https://r4ds.hadley.nz/) by by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund
 * :earth_africa: ["Python Data Science Handbook"](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
+* :earth_africa: ["A Guide on Data Analysis"](https://bookdown.org/mike/data_analysis/) by Mike Nguyen
 
 
 ##### arXiv
