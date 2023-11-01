@@ -75,6 +75,7 @@
 
 ### Reinforcement learning
 * :orange_book: ["Reinforcement Learning: An Introduction"](http://www.incompleteideas.net/book/RLbook2020.pdf) by Richard S. Sutton and Andrew G. Barto
+* :orange_book: ["Multi-Agent Reinforcement Learning"](https://www.marl-book.com/download) by  Stefano V. Albrecht,  Filippos Christianos, and Lukas Schäfer 
 
 ### Recommender systems
 * :orange_book: ["Recommender Systems"](https://arxiv.org/pdf/1202.1112.pdf) by Linyuan Lü, Matus Medo, Chi Ho Yeung, Yi-Cheng Zhang, Zi-Ke Zhang, and Tao Zhou
