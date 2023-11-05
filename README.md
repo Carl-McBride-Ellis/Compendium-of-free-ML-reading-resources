@@ -15,6 +15,7 @@
 * :orange_book: ["Linear Algebra Done Wrong"](https://www.math.brown.edu/streil/papers/LADW/LADW_2017-09-04.pdf) by Sergei Treil
 * :orange_book: ["Linear Algebra Done Right"](https://link.springer.com/content/pdf/10.1007/978-3-031-41026-0.pdf) by Sheldon Axler
 * :orange_book: ["Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning"](https://www.cis.upenn.edu/~jean/gbooks/geomath.html) by Jean Gallier and Jocelyn Quaintance
+* :orange_book: ["The Matrix Cookbook"](https://www2.imm.dtu.dk/pubdb/edoc/imm3274.pdf) by Kaare Brandt Petersen, and Michael Syskind Pedersen
 * :earth_africa: ["Linear Algebra for Data Science with examples in R"](https://shainarace.github.io/LinearAlgebra/index.html) by Shaina Race Bennett
 
 ### Statistics
