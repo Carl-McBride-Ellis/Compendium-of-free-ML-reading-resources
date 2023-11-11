@@ -1,7 +1,6 @@
 # Books and arXiv review papers
 (Key: :orange_book: pdf file :earth_africa: html book)
 
-
 ### EDA and data cleaning
 * :earth_africa: ["Python for Data Analysis"](https://wesmckinney.com/book/) by Wes McKinney
 * :earth_africa: ["Flexible Imputation of Missing Data"](https://stefvanbuuren.name/fimd/) by Stef van Buuren
@@ -52,6 +51,7 @@
 * :orange_book: ["Automated Machine Learning: Methods, Systems, Challenges"](https://link.springer.com/content/pdf/10.1007/978-3-030-05318-5.pdf) by  Frank Hutter, Lars Kotthoff, and Joaquin Vanschoren
 * :orange_book: ["Statistics and Machine Learning in Python"](https://raw.githubusercontent.com/duchesnay/data/master/pdf/StatisticsMachineLearningPython.pdf) by Edouard Duchesnay, Tommy Löfstedt, and Feki Younes
 * :orange_book: ["Bayesian Reasoning and Machine Learning"](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/200620.pdf) by David Barber
+* :orange_book: ["Boosting: Foundations and Algorithms"](https://direct.mit.edu/books/book-pdf/2091763/book_9780262301183.pdf) by  Robert E. Schapire, and Yoav Freund
 * :earth_africa: ["R for Data Science"](https://r4ds.hadley.nz/) by by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund
 * :earth_africa: ["Python Data Science Handbook"](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
 * :earth_africa: ["A Guide on Data Analysis"](https://bookdown.org/mike/data_analysis/) by Mike Nguyen
@@ -78,7 +78,8 @@
 
 ### Reinforcement learning
 * :orange_book: ["Reinforcement Learning: An Introduction"](http://www.incompleteideas.net/book/RLbook2020.pdf) by Richard S. Sutton and Andrew G. Barto
-* :orange_book: ["Multi-Agent Reinforcement Learning"](https://www.marl-book.com/download) by  Stefano V. Albrecht,  Filippos Christianos, and Lukas Schäfer 
+* :orange_book: ["Multi-Agent Reinforcement Learning"](https://www.marl-book.com/download) by  Stefano V. Albrecht,  Filippos Christianos, and Lukas Schäfer
+* :orange_book: ["Distributional Reinforcement Learning"](https://direct.mit.edu/books/book-pdf/2111075/book_9780262374026.pdf) by  Marc G. Bellemare, Will Dabney, and Mark Rowland
 
 ### Recommender systems
 * :orange_book: ["Recommender Systems"](https://arxiv.org/pdf/1202.1112.pdf) by Linyuan Lü, Matus Medo, Chi Ho Yeung, Yi-Cheng Zhang, Zi-Ke Zhang, and Tao Zhou
