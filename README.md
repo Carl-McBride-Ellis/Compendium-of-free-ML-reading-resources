@@ -53,6 +53,7 @@
 * :orange_book: ["Bayesian Reasoning and Machine Learning"](http://web4.cs.ucl.ac.uk/staff/D.Barber/textbook/200620.pdf) by David Barber
 * :orange_book: ["Boosting: Foundations and Algorithms"](https://direct.mit.edu/books/book-pdf/2091763/book_9780262301183.pdf) by  Robert E. Schapire, and Yoav Freund
 * :orange_book: ["Algorithms for Decision Making"](https://algorithmsbook.com/files/dm.pdf) by Mykel J. Kochenderfer, Tim A. Wheeler, and Kyle H. Wray
+* :orange_book: ["Introduction to Algorithmic Marketing"](https://storage.googleapis.com/algorithmic-marketing-book/algorithmic-marketing-ai-for-marketing-operations-r1.8ga.pdf) by Ilya Katsov
 * :earth_africa: ["R for Data Science"](https://r4ds.hadley.nz/) by by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund
 * :earth_africa: ["Python Data Science Handbook"](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
 * :earth_africa: ["A Guide on Data Analysis"](https://bookdown.org/mike/data_analysis/) by Mike Nguyen
