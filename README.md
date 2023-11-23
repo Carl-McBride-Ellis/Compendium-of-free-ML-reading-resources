@@ -29,8 +29,10 @@
 
 ### Linear regression
 * :orange_book: ["The Truth about Linear Regression"](https://www.stat.cmu.edu/~cshalizi/TALR/TALR.pdf) by Cosma Rohilla Shalizi
-* :orange_book: ["Lecture notes on Ridge regression"](https://arxiv.org/pdf/1509.09169.pdf) by Wessel N. van Wieringen 
+* :orange_book: ["Lecture notes on Ridge regression"](https://arxiv.org/pdf/1509.09169.pdf) by Wessel N. van Wieringen
 
+### Optimization
+* :orange_book: ["Convex Optimization"](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) by Stephen Boyd and Lieven Vandenberghe
 
 ### Machine learning
 ##### Books
