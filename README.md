@@ -56,10 +56,12 @@
 * :orange_book: ["Boosting: Foundations and Algorithms"](https://direct.mit.edu/books/book-pdf/2091763/book_9780262301183.pdf) by  Robert E. Schapire, and Yoav Freund
 * :orange_book: ["Algorithms for Decision Making"](https://algorithmsbook.com/files/dm.pdf) by Mykel J. Kochenderfer, Tim A. Wheeler, and Kyle H. Wray
 * :orange_book: ["Introduction to Algorithmic Marketing"](https://storage.googleapis.com/algorithmic-marketing-book/algorithmic-marketing-ai-for-marketing-operations-r1.8ga.pdf) by Ilya Katsov
-* :earth_africa: ["R for Data Science"](https://r4ds.hadley.nz/) by by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund
 * :earth_africa: ["Python Data Science Handbook"](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
 * :earth_africa: ["A Guide on Data Analysis"](https://bookdown.org/mike/data_analysis/) by Mike Nguyen
-
+* :orange_book: ["Deep R Programming"](https://deepr.gagolewski.com/deepr.pdf) by Marek Gagolewski
+* :earth_africa: ["R for Data Science"](https://r4ds.hadley.nz/) by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund
+* :earth_africa: ["Advanced R"](https://adv-r.hadley.nz/) by Hadley Wickham
+* :orange_book: ["The R Inferno"](https://www.burns-stat.com/pages/Tutor/R_inferno.pdf) by Patrick Burns
 
 ##### arXiv
 * :orange_book: ["A Brief Introduction to Machine Learning for Engineers"](https://arxiv.org/pdf/1709.02840.pdf) by Osvaldo Simeone
