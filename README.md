@@ -65,6 +65,7 @@
 * :earth_africa: ["R for Data Science"](https://r4ds.hadley.nz/) by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund
 * :earth_africa: ["Advanced R"](https://adv-r.hadley.nz/) by Hadley Wickham
 * :earth_africa: ["The Epidemiologist R Handbook"](https://epirhandbook.com/en/) editor Neale Batra
+* :earth_africa: ["Hands-On Machine Learning with R"](https://bradleyboehmke.github.io/HOML/) by Bradley Boehmke and Brandon Greenwell
 * :orange_book: ["The R Inferno"](https://www.burns-stat.com/pages/Tutor/R_inferno.pdf) by Patrick Burns
 
 ##### arXiv
@@ -109,6 +110,7 @@
 * :orange_book: ["Causal Machine Learning: A Survey and Open Problems"](https://arxiv.org/pdf/2206.15475.pdf) by Jean Kaddour, Aengus Lynch, Qi Liu, Matt J. Kusner, and Ricardo Silva
 * :orange_book: ["Recent Developments in Causal Inference and Machine Learning"](https://www.annualreviews.org/doi/pdf/10.1146/annurev-soc-030420-015345) by Jennie E. Brand, Xiang Zhou, and Yu Xie
 * :orange_book: ["Causal Factor Investing"](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9AFE270D7099B787B8FD4F4CBADE0C6E/9781009397292AR.pdf/causal-factor-investing.pdf) by Marcos M. López de Prado
+* :earth_africa: ["Applied Causal Inference"](https://appliedcausalinference.github.io/aci_book/) by Uday Kamath, Kenneth Graham, and Mitchell Naylor
 
 ### Conformal prediction
 * :orange_book: ["A Tutorial on Conformal Prediction"](https://arxiv.org/pdf/0706.3188.pdf) by Glenn Shafer and Vladimir Vovk
