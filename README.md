@@ -86,6 +86,7 @@
 * :orange_book: ["Physics-based Deep Learning"](https://browse.arxiv.org/pdf/2109.05237.pdf) by Nils Thuerey, Philipp Holl, Maximilian Mueller, Patrick Schnell, Felix Trost, and Kiwon Um
 * :orange_book: ["Understanding Deep Learning"](https://github.com/udlbook/udlbook/releases/download/v1.15/UnderstandingDeepLearning_23_10_23_C.pdf) by Simon J. D. Prince 
 * :orange_book: ["The Little Book of Deep Learning"](https://fleuret.org/public/lbdl.pdf) by François Fleuret
+* :earth_africa: ["Deep Learning: Foundations and Concepts"](https://issuu.com/cmb321/docs/deep_learning_ebook) by Christopher M. Bishop and Hugh Bishop
 
 ### Reinforcement learning
 * :orange_book: ["Reinforcement Learning: An Introduction"](http://www.incompleteideas.net/book/RLbook2020.pdf) by Richard S. Sutton and Andrew G. Barto
