@@ -65,8 +65,9 @@
 * :orange_book: ["Deep R Programming"](https://deepr.gagolewski.com/deepr.pdf) by Marek Gagolewski
 * :earth_africa: ["R for Data Science"](https://r4ds.hadley.nz/) by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund
 * :earth_africa: ["Advanced R"](https://adv-r.hadley.nz/) by Hadley Wickham
-* :earth_africa: ["The Epidemiologist R Handbook"](https://epirhandbook.com/en/) editor Neale Batra
 * :earth_africa: ["Hands-On Machine Learning with R"](https://bradleyboehmke.github.io/HOML/) by Bradley Boehmke and Brandon Greenwell
+* :earth_africa: ["The Epidemiologist R Handbook"](https://epirhandbook.com/en/) editor Neale Batra
+* :earth_africa: ["Practical Statistics in Medicine with R"](https://practical-stats-med-r.netlify.app/) by Konstantinos I. Bougioukas
 * :orange_book: ["The R Inferno"](https://www.burns-stat.com/pages/Tutor/R_inferno.pdf) by Patrick Burns
 
 ##### arXiv
