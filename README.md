@@ -60,7 +60,15 @@
 * :earth_africa: ["Python Data Science Handbook"](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
 * :earth_africa: ["A Guide on Data Analysis"](https://bookdown.org/mike/data_analysis/) by Mike Nguyen
 
-##### [R](https://www.r-project.org/) realted
+##### arXiv
+* :orange_book: ["A Brief Introduction to Machine Learning for Engineers"](https://arxiv.org/pdf/1709.02840.pdf) by Osvaldo Simeone
+* :orange_book: ["Machine Learning: The Basics"](https://arxiv.org/pdf/1805.05052.pdf) by Alexander Jung
+* :orange_book: ["Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning"](https://arxiv.org/pdf/1811.12808.pdf) by Sebastian Raschka
+* :orange_book: ["Hyper-Parameter Optimization: A Review of Algorithms and Applications"](https://arxiv.org/pdf/2003.05689.pdf) by Tong Yu and Hong Zhu
+* :orange_book: ["How to avoid machine learning pitfalls: a guide for academic researchers"](https://arxiv.org/pdf/2108.02497.pdf) by Michael A. Lones
+* :orange_book: ["Online Learning: A Comprehensive Survey"](https://arxiv.org/pdf/1802.02871.pdf) by Steven C. H. Hoi, Doyen Sahoo, Jing Lu and Peilin Zhao
+
+### [R](https://www.r-project.org/) realted
 * :earth_africa: ["Linear Algebra for Data Science with examples in R"](https://shainarace.github.io/LinearAlgebra/index.html) by Shaina Race Bennett
 * :orange_book: ["Deep R Programming"](https://deepr.gagolewski.com/deepr.pdf) by Marek Gagolewski
 * :earth_africa: ["R for Data Science"](https://r4ds.hadley.nz/) by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund
@@ -69,15 +77,8 @@
 * :earth_africa: ["The Epidemiologist R Handbook"](https://epirhandbook.com/en/) editor Neale Batra
 * :earth_africa: ["Practical Statistics in Medicine with R"](https://practical-stats-med-r.netlify.app/) by Konstantinos I. Bougioukas
 * :earth_africa: ["Text Mining with R: A Tidy Approach"](https://www.tidytextmining.com/) by Julia Silge and David Robinson
+* :earth_africa: ["Spatial Statistics for Data Science: Theory and Practice with R"](https://www.paulamoraga.com/book-spatial/) by Paula Moraga
 * :orange_book: ["The R Inferno"](https://www.burns-stat.com/pages/Tutor/R_inferno.pdf) by Patrick Burns
-
-##### arXiv
-* :orange_book: ["A Brief Introduction to Machine Learning for Engineers"](https://arxiv.org/pdf/1709.02840.pdf) by Osvaldo Simeone
-* :orange_book: ["Machine Learning: The Basics"](https://arxiv.org/pdf/1805.05052.pdf) by Alexander Jung
-* :orange_book: ["Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning"](https://arxiv.org/pdf/1811.12808.pdf) by Sebastian Raschka
-* :orange_book: ["Hyper-Parameter Optimization: A Review of Algorithms and Applications"](https://arxiv.org/pdf/2003.05689.pdf) by Tong Yu and Hong Zhu
-* :orange_book: ["How to avoid machine learning pitfalls: a guide for academic researchers"](https://arxiv.org/pdf/2108.02497.pdf) by Michael A. Lones
-* :orange_book: ["Online Learning: A Comprehensive Survey"](https://arxiv.org/pdf/1802.02871.pdf) by Steven C. H. Hoi, Doyen Sahoo, Jing Lu and Peilin Zhao
 
 ### Deep learning / neural networks
 * :orange_book: ["The Matrix Calculus You Need For Deep Learning"](https://arxiv.org/pdf/1802.01528.pdf) by Terence Parr, and Jeremy Howard
