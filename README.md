@@ -115,8 +115,9 @@
 ### Causality
 * :orange_book: ["Causal Machine Learning: A Survey and Open Problems"](https://arxiv.org/pdf/2206.15475.pdf) by Jean Kaddour, Aengus Lynch, Qi Liu, Matt J. Kusner, and Ricardo Silva
 * :orange_book: ["Recent Developments in Causal Inference and Machine Learning"](https://www.annualreviews.org/doi/pdf/10.1146/annurev-soc-030420-015345) by Jennie E. Brand, Xiang Zhou, and Yu Xie
-*  :orange_book: ["A First Course in Causal Inference"](https://arxiv.org/pdf/2305.18793.pdf) by Peng Ding
+* :orange_book: ["A First Course in Causal Inference"](https://arxiv.org/pdf/2305.18793.pdf) by Peng Ding
 * :orange_book: ["Causal Factor Investing"](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9AFE270D7099B787B8FD4F4CBADE0C6E/9781009397292AR.pdf/causal-factor-investing.pdf) by Marcos M. López de Prado
+* :orange_book: ["Survey and Evaluation of Causal Discovery Methods for Time Series"](https://www.jair.org/index.php/jair/article/view/13428/26917) by Charles K. Assaad, Emilie Devijver, and Eric Gaussier
 * :earth_africa: ["Applied Causal Inference"](https://appliedcausalinference.github.io/aci_book/) by Uday Kamath, Kenneth Graham, and Mitchell Naylor
 
 ### Conformal prediction
