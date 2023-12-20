@@ -59,6 +59,7 @@
 * :orange_book: ["Introduction to Algorithmic Marketing"](https://storage.googleapis.com/algorithmic-marketing-book/algorithmic-marketing-ai-for-marketing-operations-r1.8ga.pdf) by Ilya Katsov
 * :earth_africa: ["Python Data Science Handbook"](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
 * :earth_africa: ["A Guide on Data Analysis"](https://bookdown.org/mike/data_analysis/) by Mike Nguyen
+* :earth_africa: ["Applied Machine Learning for Tabular Data"](https://aml4td.org/) by Max Kuhn, and Kjell Johnson
 
 ##### arXiv
 * :orange_book: ["A Brief Introduction to Machine Learning for Engineers"](https://arxiv.org/pdf/1709.02840.pdf) by Osvaldo Simeone
