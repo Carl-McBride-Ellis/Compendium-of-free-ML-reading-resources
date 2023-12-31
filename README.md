@@ -1,9 +1,11 @@
 # Books and arXiv review papers
 (Key :orange_book: pdf file :earth_africa: html book)
 
-### EDA and data cleaning
+### EDA, visualization, and data cleaning
 * :earth_africa: ["Python for Data Analysis"](https://wesmckinney.com/book/) by Wes McKinney
 * :earth_africa: ["Flexible Imputation of Missing Data"](https://stefvanbuuren.name/fimd/) by Stef van Buuren
+* :earth_africa: ["Fundamentals of Data Visualization"](https://clauswilke.com/dataviz/) by Claus O. Wilke
+* :earth_africa: ["R Graphics Cookbook"](https://r-graphics.org/) by Winston Chang
 * :orange_book: ["Think Stats: Exploratory Data Analysis in Python"](https://greenteapress.com/thinkstats2/thinkstats2.pdf) by Allen B. Downey
 * :orange_book: ["SQL Notes for Professionals"](https://books.goalkicker.com/SQLBook/SQLNotesForProfessionals.pdf)
 
@@ -70,15 +72,18 @@
 * :orange_book: ["Online Learning: A Comprehensive Survey"](https://arxiv.org/pdf/1802.02871.pdf) by Steven C. H. Hoi, Doyen Sahoo, Jing Lu and Peilin Zhao
 
 ### [R](https://www.r-project.org/) realted
+* :earth_africa: ["Hands-On Programming with R"](https://rstudio-education.github.io/hopr/) by Garrett Grolemund
+* :earth_africa: ["Hands-On Machine Learning with R"](https://bradleyboehmke.github.io/HOML/) by Bradley Boehmke and Brandon Greenwell
 * :earth_africa: ["Linear Algebra for Data Science with examples in R"](https://shainarace.github.io/LinearAlgebra/index.html) by Shaina Race Bennett
 * :orange_book: ["Deep R Programming"](https://deepr.gagolewski.com/deepr.pdf) by Marek Gagolewski
+* :earth_africa: ["Efficient R programming"](https://csgillespie.github.io/efficientR/) by Colin Gillespie, and Robin Lovelace
 * :earth_africa: ["R for Data Science"](https://r4ds.hadley.nz/) by Hadley Wickham, Mine Çetinkaya-Rundel, and Garrett Grolemund
 * :earth_africa: ["Advanced R"](https://adv-r.hadley.nz/) by Hadley Wickham
-* :earth_africa: ["Hands-On Machine Learning with R"](https://bradleyboehmke.github.io/HOML/) by Bradley Boehmke and Brandon Greenwell
 * :earth_africa: ["The Epidemiologist R Handbook"](https://epirhandbook.com/en/) editor Neale Batra
 * :earth_africa: ["Practical Statistics in Medicine with R"](https://practical-stats-med-r.netlify.app/) by Konstantinos I. Bougioukas
 * :earth_africa: ["Text Mining with R: A Tidy Approach"](https://www.tidytextmining.com/) by Julia Silge and David Robinson
 * :earth_africa: ["Spatial Statistics for Data Science: Theory and Practice with R"](https://www.paulamoraga.com/book-spatial/) by Paula Moraga
+* :earth_africa: ["R Graphics Cookbook"](https://r-graphics.org/) by Winston Chang
 * :orange_book: ["The R Inferno"](https://www.burns-stat.com/pages/Tutor/R_inferno.pdf) by Patrick Burns
 
 ### Deep learning / neural networks
