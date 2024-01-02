@@ -29,6 +29,7 @@
 * :orange_book: ["learning statistics with jamovi"](https://davidfoxcroft.github.io/lsj-book/learning-statistics-with-jamovi.pdf) by Danielle J. Navarro and David R. Foxcroft
 * :orange_book: ["Bayesian Data Analysis"](http://www.stat.columbia.edu/~gelman/book/BDA3.pdf) by Andrew Gelman, John Carlin, Hal Stern, David Dunson, Aki Vehtari, and Donald Rubin
 * :orange_book: ["Compendium of Common Probability Distributions"](https://www.causascientia.org/math_stat/Dists/Compendium.pdf) by Michael P. McLaughlin
+* :orange_book: ["Probability and Statistics for Data Science"](https://cims.nyu.edu/~cfgranda/pages/stuff/probability_stats_for_DS.pdf) by Carlos Fernandez-Granda
 
 ### Linear regression
 * :orange_book: ["The Truth about Linear Regression"](https://www.stat.cmu.edu/~cshalizi/TALR/TALR.pdf) by Cosma Rohilla Shalizi
