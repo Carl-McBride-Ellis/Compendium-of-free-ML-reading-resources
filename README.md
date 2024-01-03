@@ -61,6 +61,7 @@
 * :orange_book: ["Algorithms for Decision Making"](https://algorithmsbook.com/files/dm.pdf) by Mykel J. Kochenderfer, Tim A. Wheeler, and Kyle H. Wray
 * :orange_book: ["Introduction to Algorithmic Marketing"](https://storage.googleapis.com/algorithmic-marketing-book/algorithmic-marketing-ai-for-marketing-operations-r1.8ga.pdf) by Ilya Katsov
 * :orange_book: ["Applied Data Science"](https://columbia-applied-data-science.github.io/appdatasci.pdf) by Ian Langmore, and Daniel Krasner
+* :orange_book: ["CS229 Lecture Notes"](https://cs229.stanford.edu/notes2022fall/main_notes.pdf) by Andrew Ng, and Tengyu Ma
 * :earth_africa: ["Python Data Science Handbook"](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
 * :earth_africa: ["A Guide on Data Analysis"](https://bookdown.org/mike/data_analysis/) by Mike Nguyen
 * :earth_africa: ["Applied Machine Learning for Tabular Data"](https://aml4td.org/) by Max Kuhn, and Kjell Johnson
