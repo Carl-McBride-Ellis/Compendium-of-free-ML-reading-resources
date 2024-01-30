@@ -143,6 +143,7 @@
 
 ### Feature engineering
 * :earth_africa: ["Feature Engineering and Selection: A Practical Approach for Predictive Models"](http://www.feat.engineering/) by Max Kuhn and Kjell Johnson
+* :earth_africa: ["Feature Engineering A-Z"](https://feaz-book.com/) by Emil Hvitfeldt
 
 ### Time series: Forecasting
 * :earth_africa: ["Forecasting: Principles and Practice"](https://otexts.com/fpp3/) by Rob J Hyndman and George Athanasopoulos
