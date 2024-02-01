@@ -152,6 +152,7 @@
 * :orange_book: ["Forecast Evaluation for Data Scientists: Common Pitfalls and Best Practices"](https://arxiv.org/pdf/2203.10716.pdf) by Hansika Hewamalagea, Klaus Ackermannb, and Christoph Bergmeir
 * :orange_book: ["A Comprehensive Survey of Regression Based Loss Functions for Time Series Forecasting"](https://arxiv.org/pdf/2211.02989.pdf) by Aryan Jadon, Avinash Patil and Shruti Jadon
 * :orange_book: ["Time Series Analysis"](https://batch.libretexts.org/print/Letter/Finished/stats-826/Full.pdf) by Alexander Aue
+* :orange_book: ["Time Series for Macroeconomics and Finance"](https://static1.squarespace.com/static/5e6033a4ea02d801f37e15bb/t/5ed92dcb7665261af1aa23f2/1591291342389/time_series_book.pdf) by John H. Cochrane
 * :earth_africa: ["Demand Forecasting for Executives and Professionals"](https://dfep.netlify.app/) by Stephan Kolassa, Bahman Rostami-Tabar, and Enno Siemsen
 
 
