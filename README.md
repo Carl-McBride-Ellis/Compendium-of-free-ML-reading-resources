@@ -91,6 +91,7 @@
 * :earth_africa: ["Text Mining with R: A Tidy Approach"](https://www.tidytextmining.com/) by Julia Silge and David Robinson
 * :earth_africa: ["Spatial Statistics for Data Science: Theory and Practice with R"](https://www.paulamoraga.com/book-spatial/) by Paula Moraga
 * :earth_africa: ["R Graphics Cookbook"](https://r-graphics.org/) by Winston Chang
+* :earth_africa: ["Toolbox for Social Scientists and Policy Analysts: Applied Predictive Analytics with Machine Learning and R"](https://yaydede.github.io/toolbox/) by Yigit Aydede
 * :orange_book: ["The R Inferno"](https://www.burns-stat.com/pages/Tutor/R_inferno.pdf) by Patrick Burns
 
 ### Deep learning / neural networks
