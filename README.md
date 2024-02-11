@@ -92,6 +92,7 @@
 * :earth_africa: ["Spatial Statistics for Data Science: Theory and Practice with R"](https://www.paulamoraga.com/book-spatial/) by Paula Moraga
 * :earth_africa: ["R Graphics Cookbook"](https://r-graphics.org/) by Winston Chang
 * :earth_africa: ["Toolbox for Social Scientists and Policy Analysts: Applied Predictive Analytics with Machine Learning and R"](https://yaydede.github.io/toolbox/) by Yigit Aydede
+* :earth_africa: ["Fundamentos de ciencia de datos con R"](https://cdr-book.github.io/index.html) by Gema Fernández-Avilés Calderón y José-María Montero
 * :orange_book: ["The R Inferno"](https://www.burns-stat.com/pages/Tutor/R_inferno.pdf) by Patrick Burns
 
 ### Deep learning / neural networks
