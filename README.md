@@ -6,6 +6,7 @@
 * :earth_africa: ["Flexible Imputation of Missing Data"](https://stefvanbuuren.name/fimd/) by Stef van Buuren
 * :earth_africa: ["Fundamentals of Data Visualization"](https://clauswilke.com/dataviz/) by Claus O. Wilke
 * :earth_africa: ["R Graphics Cookbook"](https://r-graphics.org/) by Winston Chang
+* :earth_africa: ["Modern Data Visualization with R"](https://rkabacoff.github.io/datavis/) by Robert Kabacoff
 * :orange_book: ["Think Stats: Exploratory Data Analysis in Python"](https://greenteapress.com/thinkstats2/thinkstats2.pdf) by Allen B. Downey
 * :orange_book: ["SQL Notes for Professionals"](https://books.goalkicker.com/SQLBook/SQLNotesForProfessionals.pdf)
 
@@ -93,6 +94,7 @@
 * :earth_africa: ["R Graphics Cookbook"](https://r-graphics.org/) by Winston Chang
 * :earth_africa: ["Toolbox for Social Scientists and Policy Analysts: Applied Predictive Analytics with Machine Learning and R"](https://yaydede.github.io/toolbox/) by Yigit Aydede
 * :earth_africa: ["Fundamentos de ciencia de datos con R"](https://cdr-book.github.io/index.html) by Gema Fernández-Avilés Calderón y José-María Montero
+* :earth_africa: ["Modern Data Visualization with R"](https://rkabacoff.github.io/datavis/) by Robert Kabacoff
 * :orange_book: ["The R Inferno"](https://www.burns-stat.com/pages/Tutor/R_inferno.pdf) by Patrick Burns
 
 ### Deep learning / neural networks
