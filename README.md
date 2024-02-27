@@ -95,6 +95,7 @@
 * :earth_africa: ["Toolbox for Social Scientists and Policy Analysts: Applied Predictive Analytics with Machine Learning and R"](https://yaydede.github.io/toolbox/) by Yigit Aydede
 * :earth_africa: ["Fundamentos de ciencia de datos con R"](https://cdr-book.github.io/index.html) by Gema Fernández-Avilés Calderón y José-María Montero
 * :earth_africa: ["Modern Data Visualization with R"](https://rkabacoff.github.io/datavis/) by Robert Kabacoff
+* :earth_africa: ["Introduction to Econometrics with R"](https://www.econometrics-with-r.org/) by Christoph Hanck, Martin Arnold, Alexander Gerber, and Martin Schmelzer
 * :orange_book: ["The R Inferno"](https://www.burns-stat.com/pages/Tutor/R_inferno.pdf) by Patrick Burns
 
 ### Deep learning / neural networks
