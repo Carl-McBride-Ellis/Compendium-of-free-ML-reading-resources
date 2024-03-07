@@ -139,6 +139,7 @@
 * :orange_book: ["A First Course in Causal Inference"](https://arxiv.org/pdf/2305.18793.pdf) by Peng Ding
 * :orange_book: ["Causal Factor Investing"](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9AFE270D7099B787B8FD4F4CBADE0C6E/9781009397292AR.pdf/causal-factor-investing.pdf) by Marcos M. López de Prado
 * :orange_book: ["Survey and Evaluation of Causal Discovery Methods for Time Series"](https://www.jair.org/index.php/jair/article/view/13428/26917) by Charles K. Assaad, Emilie Devijver, and Eric Gaussier
+* :orange_book: ["Applied Causal Inference Powered by ML and AI"](https://arxiv.org/pdf/2403.02467v1.pdf) by Victor Chernozhukov, Christian Hansen, Nathan Kallus, Martin Spindler, and Vasilis Syrgkanis
 * :earth_africa: ["Applied Causal Inference"](https://appliedcausalinference.github.io/aci_book/) by Uday Kamath, Kenneth Graham, and Mitchell Naylor
 
 ### Conformal prediction
