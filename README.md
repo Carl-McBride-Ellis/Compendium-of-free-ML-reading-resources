@@ -19,6 +19,7 @@
 * :orange_book: ["Linear Algebra, Theory And Applications"](https://d2orq2otfnmxdd.cloudfront.net/books/Linearalgebra/Linearalgebra.pdf) by Kenneth Kuttler
 * :orange_book: ["Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning"](https://www.cis.upenn.edu/~jean/gbooks/geomath.html) by Jean Gallier and Jocelyn Quaintance
 * :orange_book: ["The Matrix Cookbook"](https://www2.imm.dtu.dk/pubdb/edoc/imm3274.pdf) by Kaare Brandt Petersen, and Michael Syskind Pedersen
+* :orange_book: ["Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares"](https://web.stanford.edu/~boyd/vmls/vmls.pdf) by Stephen Boyd and Lieven Vandenberghe
 * :earth_africa: ["Linear Algebra for Data Science with examples in R"](https://shainarace.github.io/LinearAlgebra/index.html) by Shaina Race Bennett
 
 ### Statistics
