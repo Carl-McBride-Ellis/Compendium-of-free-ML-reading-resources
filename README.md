@@ -81,6 +81,7 @@
 * :orange_book: ["Online Learning: A Comprehensive Survey"](https://arxiv.org/pdf/1802.02871.pdf) by Steven C. H. Hoi, Doyen Sahoo, Jing Lu and Peilin Zhao
 
 ### [R](https://www.r-project.org/) realted
+* :earth_africa: ["Big Book of R"](https://www.bigbookofr.com/) by Oscar Baruffa
 * :earth_africa: ["Hands-On Programming with R"](https://rstudio-education.github.io/hopr/) by Garrett Grolemund
 * :earth_africa: ["Hands-On Machine Learning with R"](https://bradleyboehmke.github.io/HOML/) by Bradley Boehmke and Brandon Greenwell
 * :earth_africa: ["Linear Algebra for Data Science with examples in R"](https://shainarace.github.io/LinearAlgebra/index.html) by Shaina Race Bennett
