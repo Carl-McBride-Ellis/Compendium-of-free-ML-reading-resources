@@ -128,6 +128,7 @@
 
 ### Computer vision
 * :orange_book: ["Computer Vision:  Models, Learning, and Inference"](http://www.computervisionmodels.com/) by Simon J. D. Prince
+* :orange_book: ["Computer Vision: Algorithms and Applications" (1st Ed)](https://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf) by Richard Szeliski
 
 ### Natural language processing
 * :orange_book: ["Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition"](https://web.stanford.edu/~jurafsky/slp3/ed3book_jan72023.pdf) by  Dan Jurafsky and James H. Martin 
