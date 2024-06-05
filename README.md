@@ -146,6 +146,7 @@
 * :orange_book: ["Survey and Evaluation of Causal Discovery Methods for Time Series"](https://www.jair.org/index.php/jair/article/view/13428/26917) by Charles K. Assaad, Emilie Devijver, and Eric Gaussier
 * :orange_book: ["Applied Causal Inference Powered by ML and AI"](https://arxiv.org/pdf/2403.02467v1.pdf) by Victor Chernozhukov, Christian Hansen, Nathan Kallus, Martin Spindler, and Vasilis Syrgkanis
 * :earth_africa: ["Applied Causal Inference"](https://appliedcausalinference.github.io/aci_book/) by Uday Kamath, Kenneth Graham, and Mitchell Naylor
+* :earth_africa: ["Causal Inference for The Brave and True"](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) by Matheus Facure Alves
 
 ### Conformal prediction
 * :orange_book: ["A Tutorial on Conformal Prediction"](https://arxiv.org/pdf/0706.3188.pdf) by Glenn Shafer and Vladimir Vovk
