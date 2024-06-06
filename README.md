@@ -75,6 +75,7 @@
 ##### arXiv
 * :orange_book: ["A Brief Introduction to Machine Learning for Engineers"](https://arxiv.org/pdf/1709.02840.pdf) by Osvaldo Simeone
 * :orange_book: ["Machine Learning: The Basics"](https://arxiv.org/pdf/1805.05052.pdf) by Alexander Jung
+* :orange_book: ["A high-bias, low-variance introduction to Machine Learning for physicists"](https://arxiv.org/pdf/1803.08823) by Pankaj Mehta, Marin Bukov, Ching-Hao Wang, Alexandre G.R. Day, Clint Richardson, Charles K. Fisher, David J. Schwab
 * :orange_book: ["Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning"](https://arxiv.org/pdf/1811.12808.pdf) by Sebastian Raschka
 * :orange_book: ["Hyper-Parameter Optimization: A Review of Algorithms and Applications"](https://arxiv.org/pdf/2003.05689.pdf) by Tong Yu and Hong Zhu
 * :orange_book: ["How to avoid machine learning pitfalls: a guide for academic researchers"](https://arxiv.org/pdf/2108.02497.pdf) by Michael A. Lones
