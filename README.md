@@ -39,14 +39,15 @@
 * :orange_book: ["The Truth about Linear Regression"](https://www.stat.cmu.edu/~cshalizi/TALR/TALR.pdf) by Cosma Rohilla Shalizi
 * :orange_book: ["Lecture notes on Ridge regression"](https://arxiv.org/pdf/1509.09169.pdf) by Wessel N. van Wieringen
 * :orange_book: ["Linear Model and Extensions"](https://arxiv.org/pdf/2401.00649.pdf) by Peng Ding
+* :orange_book: ["Regression and Other Stories"](https://users.aalto.fi/~ave/ROS.pdf) by Andrew Gelman, Jennifer Hill, and Aki Vehtari
 
 ### Optimization
 * :orange_book: ["Convex Optimization"](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) by Stephen Boyd and Lieven Vandenberghe
 
 ### Machine learning
 ##### Books
-* :orange_book: ["An Introduction to Statistical Learning with Applications in Python"](https://hastie.su.domains/ISLP/ISLP_website.pdf.view-in-google.html) by James, Witten, Hastie, Tibshirani, y Taylor
-* :orange_book: ["The Elements of Statistical Learning"](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf) by Hastie, Tibshirani y Friedman
+* :orange_book: ["An Introduction to Statistical Learning with Applications in Python"](https://hastie.su.domains/ISLP/ISLP_website.pdf.view-in-google.html) by James, Witten, Hastie, Tibshirani, and Taylor
+* :orange_book: ["The Elements of Statistical Learning"](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf) by Hastie, Tibshirani, and Friedman
 * :orange_book: ["Computer Age Statistical Inference: Algorithms, Evidence and Data Science"](https://hastie.su.domains/CASI_files/PDF/casi.pdf) by Bradley Efron and Trevor Hastie
 * :orange_book: ["Pattern Recognition and Machine Learning"](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) by Christopher M. Bishop
 * :orange_book: ["Probabilistic Machine Learning: An Introduction"](https://github.com/probml/pml-book/releases/latest/download/book1.pdf) by Kevin Patrick Murphy
