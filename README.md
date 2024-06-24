@@ -69,6 +69,7 @@
 * :orange_book: ["Applied Data Science"](https://columbia-applied-data-science.github.io/appdatasci.pdf) by Ian Langmore, and Daniel Krasner
 * :orange_book: ["CS229 Lecture Notes"](https://cs229.stanford.edu/notes2022fall/main_notes.pdf) by Andrew Ng, and Tengyu Ma
 * :orange_book: ["Random Matrix Methods for Machine Learning"](https://zhenyu-liao.github.io/pdf/RMT4ML.pdf) by Romain Couillet, and Zhenyu Liao
+* :orange_book: ["The Orange Book of Machine Learning"](https://raw.githubusercontent.com/Carl-McBride-Ellis/TOBoML/main/TOBoML.pdf) by Carl McBride Ellis
 * :earth_africa: ["Python Data Science Handbook"](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
 * :earth_africa: ["A Guide on Data Analysis"](https://bookdown.org/mike/data_analysis/) by Mike Nguyen
 * :earth_africa: ["Applied Machine Learning for Tabular Data"](https://aml4td.org/) by Max Kuhn, and Kjell Johnson
