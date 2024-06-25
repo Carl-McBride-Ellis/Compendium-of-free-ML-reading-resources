@@ -173,6 +173,7 @@
 
 ### Explainability/interpretability
 * :earth_africa: ["Interpretable Machine Learning: A Guide for Making Black Box Models Explainable"](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
+* :earth_africa: ["Explanatory Model Analysis"](https://ema.drwhy.ai/) by Przemyslaw Biecek and Tomasz Burzykowski
 
 
 <sub>Note: All [arXiv](https://arxiv.org/) papers are inherently free, and all books have been made freely available by their respective authors/publishers.</sub>
