@@ -40,6 +40,7 @@
 * :orange_book: ["Lecture notes on Ridge regression"](https://arxiv.org/pdf/1509.09169.pdf) by Wessel N. van Wieringen
 * :orange_book: ["Linear Model and Extensions"](https://arxiv.org/pdf/2401.00649.pdf) by Peng Ding
 * :orange_book: ["Regression and Other Stories"](https://users.aalto.fi/~ave/ROS.pdf) by Andrew Gelman, Jennifer Hill, and Aki Vehtari
+* :earth_africa: ["Analysing Data using Linear Models"](https://bookdown.org/pingapang9/linear_models_bookdown/) by Stéphanie M. van den Berg
 
 ### Optimization
 * :orange_book: ["Convex Optimization"](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) by Stephen Boyd and Lieven Vandenberghe
