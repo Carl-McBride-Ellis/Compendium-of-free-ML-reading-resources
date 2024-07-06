@@ -141,6 +141,7 @@
 * :orange_book: ["Graph Neural Networks for Natural Language Processing: A Survey"](https://arxiv.org/pdf/2106.06090.pdf) by Lingfei Wu, Yu Chen, Kai Shen, Xiaojie Guo, Hanning Gao, Shucheng Li, Jian Pei, and Bo Long
 * :orange_book: ["Formal Aspects of Language Modeling"](https://arxiv.org/pdf/2311.04329.pdf) by Ryan Cotterell, Anej Svete, Clara Meister, Tianyu Liu, and Li Du
 * :orange_book: ["A Survey of Large Language Models"](https://arxiv.org/pdf/2303.18223.pdf) by Wayne Xin Zhao, *et al.*
+* :orange_book: ["Foundation Models for Natural Language Processing"](https://link.springer.com/content/pdf/10.1007/978-3-031-23190-2.pdf) by  Gerhard Paaß, and Sven Giesselbach
 * :earth_africa: ["Text Mining with R: A Tidy Approach"](https://www.tidytextmining.com/) by Julia Silge and David Robinson
 
 ### Causality
