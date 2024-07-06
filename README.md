@@ -44,6 +44,7 @@
 
 ### Optimization
 * :orange_book: ["Convex Optimization"](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) by Stephen Boyd and Lieven Vandenberghe
+* :orange_book: ["An introduction to optimization on smooth manifolds"](https://www.nicolasboumal.net/book/IntroOptimManifolds_Boumal_2023.pdf) by Nicolas Boumal
 
 ### Machine learning
 ##### Books
