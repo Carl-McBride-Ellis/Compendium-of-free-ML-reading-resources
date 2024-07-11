@@ -145,7 +145,7 @@
 * :orange_book: ["Foundation Models for Natural Language Processing"](https://link.springer.com/content/pdf/10.1007/978-3-031-23190-2.pdf) by  Gerhard Paaß, and Sven Giesselbach
 * :earth_africa: ["Text Mining with R: A Tidy Approach"](https://www.tidytextmining.com/) by Julia Silge and David Robinson
 
-### Causality
+### Causal inference
 * :orange_book: ["Causal Machine Learning: A Survey and Open Problems"](https://arxiv.org/pdf/2206.15475.pdf) by Jean Kaddour, Aengus Lynch, Qi Liu, Matt J. Kusner, and Ricardo Silva
 * :orange_book: ["Recent Developments in Causal Inference and Machine Learning"](https://www.annualreviews.org/doi/pdf/10.1146/annurev-soc-030420-015345) by Jennie E. Brand, Xiang Zhou, and Yu Xie
 * :orange_book: ["A First Course in Causal Inference"](https://arxiv.org/pdf/2305.18793.pdf) by Peng Ding
