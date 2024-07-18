@@ -74,6 +74,7 @@
 * :orange_book: ["The Orange Book of Machine Learning"](https://carl-mcbride-ellis.github.io/TOBoML/TOBoML.pdf) by Carl McBride Ellis
 * :orange_book: ["Learning Theory from First Principles"](https://www.di.ens.fr/~fbach/ltfp_book.pdf) by Francis Bach
 * :orange_book: ["Advanced Data Analysis from an Elementary Point of View"](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=a0ec06896e6775d03cf2e905f48616bc2ffadf19) by Cosma Rohilla Shalizi
+* :earth_africa: ["Supervised Machine Learning for Science"](https://ml-science-book.com/) by Christoph Molnar, and Timo Freiesleben
 * :earth_africa: ["Python Data Science Handbook"](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
 * :earth_africa: ["A Guide on Data Analysis"](https://bookdown.org/mike/data_analysis/) by Mike Nguyen
 * :earth_africa: ["Applied Machine Learning for Tabular Data"](https://aml4td.org/) by Max Kuhn, and Kjell Johnson
