@@ -138,7 +138,7 @@
 * :orange_book: ["Computer Vision:  Models, Learning, and Inference"](http://www.computervisionmodels.com/) by Simon J. D. Prince
 * :orange_book: ["Computer Vision: Algorithms and Applications" (1st Ed)](https://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf) by Richard Szeliski
 
-### Natural language processing
+### Natural language processing (NLP) and large language models (LLM)
 * :orange_book: ["Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition"](https://web.stanford.edu/~jurafsky/slp3/ed3bookfeb3_2024.pdf) by  Dan Jurafsky and James H. Martin 
 * :orange_book: ["Large Language Models"](https://arxiv.org/pdf/2307.05782.pdf) by Michael R. Douglas
 * :orange_book: ["Graph Neural Networks for Natural Language Processing: A Survey"](https://arxiv.org/pdf/2106.06090.pdf) by Lingfei Wu, Yu Chen, Kai Shen, Xiaojie Guo, Hanning Gao, Shucheng Li, Jian Pei, and Bo Long
