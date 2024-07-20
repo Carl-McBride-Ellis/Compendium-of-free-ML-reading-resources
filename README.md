@@ -2,7 +2,7 @@
 (Key :orange_book: pdf file :earth_africa: html book)
 
 ### EDA, visualization, and data cleaning
-* :earth_africa: ["Python for Data Analysis"](https://wesmckinney.com/book/) by Wes McKinney
+* :earth_africa: ["Python for Data Analysis (3rd Edition)"](https://wesmckinney.com/book/) by Wes McKinney
 * :earth_africa: ["Flexible Imputation of Missing Data"](https://stefvanbuuren.name/fimd/) by Stef van Buuren
 * :earth_africa: ["Fundamentals of Data Visualization"](https://clauswilke.com/dataviz/) by Claus O. Wilke
 * :earth_africa: ["R Graphics Cookbook"](https://r-graphics.org/) by Winston Chang
