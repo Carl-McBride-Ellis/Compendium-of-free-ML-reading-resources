@@ -20,9 +20,10 @@
 * :orange_book: ["Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning"](https://www.cis.upenn.edu/~jean/gbooks/geomath.html) by Jean Gallier and Jocelyn Quaintance
 * :orange_book: ["The Matrix Cookbook"](https://www2.imm.dtu.dk/pubdb/edoc/imm3274.pdf) by Kaare Brandt Petersen, and Michael Syskind Pedersen
 * :orange_book: ["Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares"](https://web.stanford.edu/~boyd/vmls/vmls.pdf) by Stephen Boyd and Lieven Vandenberghe
+* :orange_book: ["Linear Algebra for Data Science"](https://drive.google.com/file/d/1nJVwdQV9zp-Q9VQenZF0-HOOG6L2lEOD/view) by Wanmo Kang, and Kyunghyun Cho
 * :earth_africa: ["Linear Algebra for Data Science with examples in R"](https://shainarace.github.io/LinearAlgebra/index.html) by Shaina Race Bennett
 
-### Statistics
+### Statistics and probability
 * :orange_book: ["Probability and Statistics - The Science of Uncertainty"](https://www.utstat.toronto.edu/mikevans/jeffrosenthal/book.pdf) by Michael J. Evans and Jeffrey S. Rosenthal
 * :orange_book: ["Probability in High Dimensions"](https://tropp.caltech.edu/notes/Tro21-Probability-High-LN-corr.pdf) by Joel A. Tropp
 * :orange_book: ["Introduction to Probability"](https://drive.google.com/file/d/1VmkAAGOYCTORq1wxSQqy255qLJjTNvBI/edit) by Joseph K. Blitzstein and Jessica Hwang
