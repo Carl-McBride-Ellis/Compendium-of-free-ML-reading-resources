@@ -132,6 +132,7 @@
 
 ### Recommender systems
 * :orange_book: ["Recommender Systems"](https://arxiv.org/pdf/1202.1112.pdf) by Linyuan Lü, Matus Medo, Chi Ho Yeung, Yi-Cheng Zhang, Zi-Ke Zhang, and Tao Zhou
+* :orange_book: ["Recommender Systems: A Primer"](https://arxiv.org/pdf/2302.02579) Pablo Castells, and Dietmar Jannach
 
 ### Anomaly detection
 * :earth_africa: ["That’s weird! Anomaly detection using R"](https://otexts.com/weird/) by Rob J. Hyndman
