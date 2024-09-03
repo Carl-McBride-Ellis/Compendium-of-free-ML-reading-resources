@@ -124,6 +124,7 @@
 * :orange_book: ["Theory of Deep Learning"](https://www.cs.princeton.edu/~arora/TheoryDL.pdf) by Sanjeev Arora, *et al.*
 * :orange_book: ["What are embeddings"](https://raw.githubusercontent.com/veekaybee/what_are_embeddings/main/embeddings.pdf) by Vicki Boykis
 * :earth_africa: ["Deep Learning: Foundations and Concepts"](https://issuu.com/cmb321/docs/deep_learning_ebook) by Christopher M. Bishop and Hugh Bishop
+* :earth_africa: ["Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD"](https://course.fast.ai/Resources/book.html) by Jeremy Howard, and Sylvain Gugger
 
 ### Reinforcement learning
 * :orange_book: ["Reinforcement Learning: An Introduction"](http://www.incompleteideas.net/book/RLbook2020.pdf) by Richard S. Sutton and Andrew G. Barto
