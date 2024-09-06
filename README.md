@@ -4,7 +4,7 @@ Key:
 * :earth_africa: html book
 ## ToC
 1. [EDA, visualization, and data cleaning](#eda-visualization-and-data-cleaning) (7)
-2. [Mathematics](#mathematics) (11)
+2. [Mathematics for ML](#mathematics-for-ml) (12)
 3. [Statistics and probability](#statistics-and-probability) (11)
 4. [Linear regression](#linear-regression) (5)
 5. [Optimization](#optimization) (2)
@@ -12,7 +12,7 @@ Key:
 7. [R realted](#r-realted) (18)
 8. [Feature engineering](#feature-engineering) (2)
 9. [Explainability/interpretability](#explainabilityinterpretability) (2)
-10. [Deep learning / neural networks](#deep-learning--neural-networks) (14)
+10. [Deep learning / neural networks](#deep-learning--neural-networks) (13)
 11. [Reinforcement learning](#reinforcement-learning) (4)
 12. [Recommender systems](#recommender-systems) (2)
 13. [Anomaly detection](#anomaly-detection) (1)
@@ -35,8 +35,9 @@ Key:
 * :orange_book: ["SQL Notes for Professionals"](https://books.goalkicker.com/SQLBook/SQLNotesForProfessionals.pdf)
 
 ---
-### Mathematics
+### Mathematics for ML
 * :orange_book: ["Mathematics for Machine Learning"](https://mml-book.github.io/book/mml-book.pdf) by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong
+* :orange_book: ["The Matrix Calculus You Need For Deep Learning"](https://arxiv.org/pdf/1802.01528.pdf) by Terence Parr, and Jeremy Howard
 * :orange_book: ["Matrix Analysis"](https://tropp.caltech.edu/notes/Tro22-Matrix-Analysis-LN.pdf) by Joel A. Tropp
 * :orange_book: ["Linear Algebra Done Wrong"](https://www.math.brown.edu/streil/papers/LADW/LADW_2017-09-04.pdf) by Sergei Treil
 * :orange_book: ["Linear Algebra Done Right"](https://link.springer.com/content/pdf/10.1007/978-3-031-41026-0.pdf) by Sheldon Axler
@@ -152,7 +153,6 @@ Key:
 
 ---
 ### Deep learning / neural networks
-* :orange_book: ["The Matrix Calculus You Need For Deep Learning"](https://arxiv.org/pdf/1802.01528.pdf) by Terence Parr, and Jeremy Howard
 * :orange_book: ["The Modern Mathematics of Deep Learning"](https://arxiv.org/pdf/2105.04026.pdf) by Julius Berner, Philipp Grohs, Gitta Kutyniok, and Philipp Petersen
 * :orange_book: ["The Principles of Deep Learning Theory"](https://arxiv.org/pdf/2106.10165.pdf) by Daniel A. Roberts, Sho Yaida, and Boris Hanin
 * :orange_book: ["Machine learning with neural networks"](https://arxiv.org/pdf/1901.05639.pdf) by Bernhard Mehlig
