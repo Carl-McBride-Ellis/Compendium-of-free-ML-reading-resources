@@ -22,6 +22,8 @@ Key:
 17. [Time series: Forecasting](#time-series-forecasting)
 18. [Explainability/interpretability](#explainabilityinterpretability)
 
+<sub>Note: All books listed here have been made freely available by their respective authors/publishers, and all [arXiv](https://arxiv.org/) papers are inherently free.</sub>
+
 ---
 ### EDA, visualization, and data cleaning
 * :earth_africa: ["Python for Data Analysis (3rd Edition)"](https://wesmckinney.com/book/) by Wes McKinney
@@ -225,4 +227,3 @@ Key:
 * :earth_africa: ["Explanatory Model Analysis"](https://ema.drwhy.ai/) by Przemyslaw Biecek and Tomasz Burzykowski
 
 ---
-<sub>Note: All [arXiv](https://arxiv.org/) papers are inherently free, and all books have been made freely available by their respective authors/publishers.</sub>
