@@ -3,24 +3,24 @@ Key:
 * :orange_book: pdf file
 * :earth_africa: html book
 ## ToC
-1. [EDA, visualization, and data cleaning](#eda-visualization-and-data-cleaning)
-2. [Mathematics](#mathematics)
-3. [Statistics and probability](#statistics-and-probability)
-4. [Linear regression](#linear-regression)
-5. [Optimization](#optimization)
-6. [Machine learning](#machine-learning)
-7. [R realted](#r-realted)
-8. [Deep learning / neural networks](#deep-learning--neural-networks)
-9. [Reinforcement learning](#reinforcement-learning)
-10. [Recommender systems](#recommender-systems)
-11. [Anomaly detection](#anomaly-detection)
-12. [Computer vision](#computer-vision)
-13. [Natural language processing (NLP) and large language models (LLM)](#natural-language-processing-nlp-and-large-language-models-llm)
-14. [Causal inference](#causal-inference)
-15. [Conformal prediction](#conformal-prediction)
-16. [Feature engineering](#feature-engineering)
-17. [Time series: Forecasting](#time-series-forecasting)
-18. [Explainability/interpretability](#explainabilityinterpretability)
+1. [EDA, visualization, and data cleaning](#eda-visualization-and-data-cleaning) (7)
+2. [Mathematics](#mathematics) (11)
+3. [Statistics and probability](#statistics-and-probability) (11)
+4. [Linear regression](#linear-regression) (5)
+5. [Optimization](#optimization) (2)
+6. [Machine learning](#machine-learning) (38)
+7. [R realted](#r-realted) (18)
+8. [Feature engineering](#feature-engineering) (2)
+9. [Explainability/interpretability](#explainabilityinterpretability) (2)
+10. [Deep learning / neural networks](#deep-learning--neural-networks) (14)
+11. [Reinforcement learning](#reinforcement-learning) (4)
+12. [Recommender systems](#recommender-systems) (2)
+13. [Anomaly detection](#anomaly-detection) (1)
+14. [Computer vision](#computer-vision) (2)
+15. [Natural language processing (NLP) and large language models (LLM)](#natural-language-processing-nlp-and-large-language-models-llm) (7)
+16. [Causal inference](#causal-inference) (8)
+17. [Conformal prediction](#conformal-prediction) (3)
+18. [Time series: Forecasting](#time-series-forecasting) (7)
 
 <sub>Note: All books listed here have been made freely available by their respective authors/publishers, and all [arXiv](https://arxiv.org/) papers are inherently free.</sub>
 
@@ -141,6 +141,16 @@ Key:
 * :orange_book: ["The R Inferno"](https://www.burns-stat.com/pages/Tutor/R_inferno.pdf) by Patrick Burns
 
 ---
+### Feature engineering
+* :earth_africa: ["Feature Engineering and Selection: A Practical Approach for Predictive Models"](http://www.feat.engineering/) by Max Kuhn and Kjell Johnson
+* :earth_africa: ["Feature Engineering A-Z"](https://feaz-book.com/) by Emil Hvitfeldt
+
+---
+### Explainability/interpretability
+* :earth_africa: ["Interpretable Machine Learning: A Guide for Making Black Box Models Explainable"](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
+* :earth_africa: ["Explanatory Model Analysis"](https://ema.drwhy.ai/) by Przemyslaw Biecek and Tomasz Burzykowski
+
+---
 ### Deep learning / neural networks
 * :orange_book: ["The Matrix Calculus You Need For Deep Learning"](https://arxiv.org/pdf/1802.01528.pdf) by Terence Parr, and Jeremy Howard
 * :orange_book: ["The Modern Mathematics of Deep Learning"](https://arxiv.org/pdf/2105.04026.pdf) by Julius Berner, Philipp Grohs, Gitta Kutyniok, and Philipp Petersen
@@ -206,11 +216,6 @@ Key:
 * :orange_book: ["A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification"](https://arxiv.org/pdf/2107.07511.pdf) by Anastasios N. Angelopoulos and Stephen Bates
 
 ---
-### Feature engineering
-* :earth_africa: ["Feature Engineering and Selection: A Practical Approach for Predictive Models"](http://www.feat.engineering/) by Max Kuhn and Kjell Johnson
-* :earth_africa: ["Feature Engineering A-Z"](https://feaz-book.com/) by Emil Hvitfeldt
-
----
 ### Time series: Forecasting
 * :earth_africa: ["Forecasting: Principles and Practice"](https://otexts.com/fpp3/) by Rob J Hyndman and George Athanasopoulos
 * :orange_book: ["Forecasting: theory and practice"](https://arxiv.org/pdf/2012.03854.pdf) by Fotios Petropoulos *et al.*
@@ -220,10 +225,5 @@ Key:
 * :orange_book: ["Time Series Analysis"](https://batch.libretexts.org/print/Letter/Finished/stats-826/Full.pdf) by Alexander Aue
 * :orange_book: ["Time Series for Macroeconomics and Finance"](https://static1.squarespace.com/static/5e6033a4ea02d801f37e15bb/t/5ed92dcb7665261af1aa23f2/1591291342389/time_series_book.pdf) by John H. Cochrane
 * :earth_africa: ["Demand Forecasting for Executives and Professionals"](https://dfep.netlify.app/) by Stephan Kolassa, Bahman Rostami-Tabar, and Enno Siemsen
-
----
-### Explainability/interpretability
-* :earth_africa: ["Interpretable Machine Learning: A Guide for Making Black Box Models Explainable"](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
-* :earth_africa: ["Explanatory Model Analysis"](https://ema.drwhy.ai/) by Przemyslaw Biecek and Tomasz Burzykowski
 
 ---
