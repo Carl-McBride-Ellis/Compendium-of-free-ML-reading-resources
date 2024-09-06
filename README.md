@@ -185,7 +185,7 @@ Key:
 
 ---
 ### Computer vision
-* :orange_book: ["Computer Vision:  Models, Learning, and Inference"](http://www.computervisionmodels.com/) by Simon J. D. Prince
+* :orange_book: ["Computer Vision:  Models, Learning, and Inference"](https://raw.githubusercontent.com/udlbook/cvbook/main/book.pdf) by Simon J. D. Prince
 * :orange_book: ["Computer Vision: Algorithms and Applications" (1st Ed)](https://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf) by Richard Szeliski
 
 ---
