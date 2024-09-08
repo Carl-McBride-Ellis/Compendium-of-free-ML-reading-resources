@@ -12,12 +12,12 @@ Key:
 7. [R realted](#r-realted) (18)
 8. [Feature engineering](#feature-engineering) (2)
 9. [Explainability/interpretability](#explainabilityinterpretability) (2)
-10. [Deep learning / neural networks](#deep-learning--neural-networks) (13)
+10. [Deep learning / neural networks](#deep-learning--neural-networks) (14)
 11. [Reinforcement learning](#reinforcement-learning) (4)
 12. [Recommender systems](#recommender-systems) (2)
 13. [Anomaly detection](#anomaly-detection) (1)
 14. [Computer vision](#computer-vision) (2)
-15. [Natural language processing (NLP) and large language models (LLM)](#natural-language-processing-nlp-and-large-language-models-llm) (7)
+15. [Natural language processing (NLP) and large language models (LLM)](#natural-language-processing-nlp-and-large-language-models-llm) (8)
 16. [Causal inference](#causal-inference) (8)
 17. [Conformal prediction](#conformal-prediction) (3)
 18. [Time series: Forecasting](#time-series-forecasting) (7)
@@ -163,7 +163,7 @@ Key:
 * :orange_book: ["The Little Book of Deep Learning"](https://fleuret.org/public/lbdl.pdf) by François Fleuret
 * :orange_book: ["Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory"](https://export.arxiv.org/pdf/2310.20360) by Arnulf Jentzen, Benno Kuckuck, and Philippe von Wurstemberger
 * :orange_book: ["Theory of Deep Learning"](https://www.cs.princeton.edu/~arora/TheoryDL.pdf) by Sanjeev Arora, *et al.*
-* :orange_book: ["What are embeddings"](https://raw.githubusercontent.com/veekaybee/what_are_embeddings/main/embeddings.pdf) by Vicki Boykis
+* :orange_book: ["Loss Functions and Metrics in Deep Learning"](https://arxiv.org/pdf/2307.02694) by Juan Terven, Diana M. Cordova-Esparza, Alfonso Ramirez-Pedraza, Edgar A. Chavez-Urbiola, and Julio A. Romero-Gonzalez
 * :earth_africa: ["Deep Learning: Foundations and Concepts"](https://issuu.com/cmb321/docs/deep_learning_ebook) by Christopher M. Bishop and Hugh Bishop
 * :earth_africa: ["Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD"](https://course.fast.ai/Resources/book.html) by Jeremy Howard, and Sylvain Gugger
 
@@ -196,6 +196,7 @@ Key:
 * :orange_book: ["Formal Aspects of Language Modeling"](https://arxiv.org/pdf/2311.04329.pdf) by Ryan Cotterell, Anej Svete, Clara Meister, Tianyu Liu, and Li Du
 * :orange_book: ["A Survey of Large Language Models"](https://arxiv.org/pdf/2303.18223.pdf) by Wayne Xin Zhao, *et al.*
 * :orange_book: ["Foundation Models for Natural Language Processing"](https://link.springer.com/content/pdf/10.1007/978-3-031-23190-2.pdf) by  Gerhard Paaß, and Sven Giesselbach
+* :orange_book: ["What are embeddings"](https://raw.githubusercontent.com/veekaybee/what_are_embeddings/main/embeddings.pdf) by Vicki Boykis
 * :earth_africa: ["Text Mining with R: A Tidy Approach"](https://www.tidytextmining.com/) by Julia Silge and David Robinson
 
 ---
