@@ -17,7 +17,7 @@ Key:
 12. [Recommender systems](#recommender-systems) (2)
 13. [Anomaly detection](#anomaly-detection) (1)
 14. [Computer vision](#computer-vision) (2)
-15. [Natural language processing (NLP) and large language models (LLM)](#natural-language-processing-nlp-and-large-language-models-llm) (8)
+15. [Natural language processing (NLP) and large language models (LLM)](#natural-language-processing-nlp-and-large-language-models-llm) (10)
 16. [Causal inference](#causal-inference) (8)
 17. [Conformal prediction](#conformal-prediction) (3)
 18. [Time series: Forecasting](#time-series-forecasting) (7)
@@ -194,10 +194,15 @@ Key:
 * :orange_book: ["Large Language Models"](https://arxiv.org/pdf/2307.05782.pdf) by Michael R. Douglas
 * :orange_book: ["Graph Neural Networks for Natural Language Processing: A Survey"](https://arxiv.org/pdf/2106.06090.pdf) by Lingfei Wu, Yu Chen, Kai Shen, Xiaojie Guo, Hanning Gao, Shucheng Li, Jian Pei, and Bo Long
 * :orange_book: ["Formal Aspects of Language Modeling"](https://arxiv.org/pdf/2311.04329.pdf) by Ryan Cotterell, Anej Svete, Clara Meister, Tianyu Liu, and Li Du
-* :orange_book: ["A Survey of Large Language Models"](https://arxiv.org/pdf/2303.18223.pdf) by Wayne Xin Zhao, *et al.*
 * :orange_book: ["Foundation Models for Natural Language Processing"](https://link.springer.com/content/pdf/10.1007/978-3-031-23190-2.pdf) by  Gerhard Paaß, and Sven Giesselbach
 * :orange_book: ["What are embeddings"](https://raw.githubusercontent.com/veekaybee/what_are_embeddings/main/embeddings.pdf) by Vicki Boykis
 * :earth_africa: ["Text Mining with R: A Tidy Approach"](https://www.tidytextmining.com/) by Julia Silge and David Robinson
+
+##### arXiv reviews
+* :orange_book: ["A Survey of Large Language Models"](https://arxiv.org/pdf/2303.18223.pdf) by Wayne Xin Zhao, *et al.*
+* :orange_book: ["Large Language Models: A Survey"](https://arxiv.org/pdf/2402.06196) by Shervin Minaee, *et al.*
+* :orange_book: ["A Comprehensive Overview of Large Language Models"](https://arxiv.org/pdf/2307.06435) by Humza Naveed, *et al.*
+
 
 ---
 ### Causal inference
