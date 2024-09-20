@@ -18,7 +18,7 @@ Key:
 13. [Anomaly detection](#anomaly-detection) (1)
 14. [Computer vision](#computer-vision) (2)
 15. [Natural language processing (NLP) and large language models (LLM)](#natural-language-processing-nlp-and-large-language-models-llm) (10)
-16. [Causal inference](#causal-inference) (8)
+16. [Causal inference](#causal-inference) (9)
 17. [Conformal prediction](#conformal-prediction) (3)
 18. [Time series: Forecasting](#time-series-forecasting) (7)
 
@@ -213,6 +213,7 @@ Key:
 * :orange_book: ["Causal Factor Investing"](https://www.cambridge.org/core/services/aop-cambridge-core/content/view/9AFE270D7099B787B8FD4F4CBADE0C6E/9781009397292AR.pdf/causal-factor-investing.pdf) by Marcos M. López de Prado
 * :orange_book: ["Survey and Evaluation of Causal Discovery Methods for Time Series"](https://www.jair.org/index.php/jair/article/view/13428/26917) by Charles K. Assaad, Emilie Devijver, and Eric Gaussier
 * :orange_book: ["Applied Causal Inference Powered by ML and AI"](https://arxiv.org/pdf/2403.02467v1.pdf) by Victor Chernozhukov, Christian Hansen, Nathan Kallus, Martin Spindler, and Vasilis Syrgkanis
+* :orange_book: ["Causal Inference: A Statistical Learning Approach"](https://web.stanford.edu/~swager/causal_inf_book.pdf) by Stefan Wager
 * :earth_africa: ["Applied Causal Inference"](https://appliedcausalinference.github.io/aci_book/) by Uday Kamath, Kenneth Graham, and Mitchell Naylor
 * :earth_africa: ["Causal Inference for The Brave and True"](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) by Matheus Facure Alves
 
