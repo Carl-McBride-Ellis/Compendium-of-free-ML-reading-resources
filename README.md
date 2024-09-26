@@ -8,7 +8,7 @@ Key:
 3. [Statistics and probability](#statistics-and-probability) (11)
 4. [Linear regression](#linear-regression) (5)
 5. [Optimization](#optimization) (2)
-6. [Machine learning](#machine-learning) (38)
+6. [Machine learning](#machine-learning) (39)
 7. [R realted](#r-realted) (18)
 8. [Feature engineering](#feature-engineering) (2)
 9. [Explainability/interpretability](#explainabilityinterpretability) (2)
@@ -110,6 +110,7 @@ Key:
 * :earth_africa: ["Python Data Science Handbook"](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
 * :earth_africa: ["A Guide on Data Analysis"](https://bookdown.org/mike/data_analysis/) by Mike Nguyen
 * :earth_africa: ["Applied Machine Learning for Tabular Data"](https://aml4td.org/) by Max Kuhn, and Kjell Johnson
+* :earth_africa: ["Applied Machine Learning in Python: a Hands-on Guide with Code"](https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html) by Michael J. Pyrcz
 
 ##### arXiv
 * :orange_book: ["A Brief Introduction to Machine Learning for Engineers"](https://arxiv.org/pdf/1709.02840.pdf) by Osvaldo Simeone
