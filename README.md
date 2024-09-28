@@ -5,7 +5,7 @@ Key:
 ## ToC
 1. [EDA, visualization, and data cleaning](#eda-visualization-and-data-cleaning) (7)
 2. [Mathematics for ML](#mathematics-for-ml) (12)
-3. [Statistics and probability](#statistics-and-probability) (11)
+3. [Statistics and probability](#statistics-and-probability) (12)
 4. [Linear regression](#linear-regression) (5)
 5. [Optimization](#optimization) (2)
 6. [Machine learning](#machine-learning) (39)
@@ -62,6 +62,7 @@ Key:
 * :orange_book: ["Compendium of Common Probability Distributions"](https://www.causascientia.org/math_stat/Dists/Compendium.pdf) by Michael P. McLaughlin
 * :orange_book: ["Probability and Statistics for Data Science"](https://cims.nyu.edu/~cfgranda/pages/stuff/probability_stats_for_DS.pdf) by Carlos Fernandez-Granda
 * :orange_book: ["Statistical Modeling: An Excursion Through 14 Topics"](https://user.math.uzh.ch/furrer/download/sta121/script_sta121.pdf) by Reinhard Furrer
+* :orange_book: ["Robust Statistics"](http://parker.ad.siu.edu/Olive/runrob.pdf) by David J. Olive
 
 ---
 ### Linear regression
