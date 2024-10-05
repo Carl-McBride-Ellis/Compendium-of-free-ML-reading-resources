@@ -17,7 +17,7 @@ Key:
 12. [Recommender systems](#recommender-systems) (2)
 13. [Anomaly detection](#anomaly-detection) (1)
 14. [Computer vision](#computer-vision) (2)
-15. [Natural language processing (NLP) and large language models (LLM)](#natural-language-processing-nlp-and-large-language-models-llm) (10)
+15. [Natural language processing (NLP) and large language models (LLM)](#natural-language-processing-nlp-and-large-language-models-llm) (11)
 16. [Causal inference](#causal-inference) (9)
 17. [Conformal prediction](#conformal-prediction) (3)
 18. [Time series: Forecasting](#time-series-forecasting) (7)
@@ -201,6 +201,7 @@ Key:
 * :orange_book: ["Foundation Models for Natural Language Processing"](https://link.springer.com/content/pdf/10.1007/978-3-031-23190-2.pdf) by  Gerhard Paaß, and Sven Giesselbach
 * :orange_book: ["What are embeddings"](https://raw.githubusercontent.com/veekaybee/what_are_embeddings/main/embeddings.pdf) by Vicki Boykis
 * :earth_africa: ["Text Mining with R: A Tidy Approach"](https://www.tidytextmining.com/) by Julia Silge and David Robinson
+* :earth_africa: ["Natural Language Processing with Python - Analyzing Text with the Natural Language Toolkit"](https://www.nltk.org/book/) by Steven Bird, Ewan Klein, and Edward Loper
 
 ##### arXiv reviews
 * :orange_book: ["A Survey of Large Language Models"](https://arxiv.org/pdf/2303.18223.pdf) by Wayne Xin Zhao, *et al.*
