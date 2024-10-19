@@ -31,7 +31,7 @@ Key:
 * :earth_africa: ["Fundamentals of Data Visualization"](https://clauswilke.com/dataviz/) by Claus O. Wilke
 * :earth_africa: ["R Graphics Cookbook"](https://r-graphics.org/) by Winston Chang
 * :earth_africa: ["Modern Data Visualization with R"](https://rkabacoff.github.io/datavis/) by Robert Kabacoff
-* :earth_africa: ["Data Cleaning and Machine Learning: A Systematic Literature Review"](https://arxiv.org/pdf/2310.01765) by Pierre-Olivier Côté, Amin Nikanjam, Nafisa Ahmed, Dmytro Humeniuk, and Foutse Khomh
+* :orange_book: ["Data Cleaning and Machine Learning: A Systematic Literature Review"](https://arxiv.org/pdf/2310.01765) by Pierre-Olivier Côté, Amin Nikanjam, Nafisa Ahmed, Dmytro Humeniuk, and Foutse Khomh
 * :orange_book: ["Think Stats: Exploratory Data Analysis in Python"](https://greenteapress.com/thinkstats2/thinkstats2.pdf) by Allen B. Downey
 * :orange_book: ["SQL Notes for Professionals"](https://books.goalkicker.com/SQLBook/SQLNotesForProfessionals.pdf)
 
