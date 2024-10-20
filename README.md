@@ -8,7 +8,7 @@ Key:
 3. [Statistics and probability](#statistics-and-probability) (13)
 4. [Linear regression](#linear-regression) (5)
 5. [Optimization](#optimization) (2)
-6. [Machine learning](#machine-learning) (40)
+6. [Machine learning](#machine-learning) (41)
 7. [R realted](#r-realted) (18)
 8. [Feature engineering](#feature-engineering) (2)
 9. [Explainability/interpretability](#explainabilityinterpretability) (2)
@@ -110,6 +110,7 @@ Key:
 * :orange_book: ["Advanced Data Analysis from an Elementary Point of View"](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=a0ec06896e6775d03cf2e905f48616bc2ffadf19) by Cosma Rohilla Shalizi
 * :orange_book: ["Machine Learning"](https://www.cs.cmu.edu/~tom/files/MachineLearningTomMitchell.pdf) by Tom Mitchell
 * :orange_book: ["Hyperparameter Tuning for Machine and Deep Learning with R: A Practical Guide"](https://link.springer.com/content/pdf/10.1007/978-981-19-5170-1.pdf) Eds.:  Eva Bartz, Thomas Bartz-Beielstein, Martin Zaefferer, and Olaf Mersmann
+* :orange_book: ["Foundations of Data Science"](https://www.cs.cornell.edu/jeh/book.pdf) by Avrim Blum, John Hopcroft, and Ravindran Kannan
 * :earth_africa: ["Supervised Machine Learning for Science"](https://ml-science-book.com/) by Christoph Molnar, and Timo Freiesleben
 * :earth_africa: ["Python Data Science Handbook"](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
 * :earth_africa: ["A Guide on Data Analysis"](https://bookdown.org/mike/data_analysis/) by Mike Nguyen
