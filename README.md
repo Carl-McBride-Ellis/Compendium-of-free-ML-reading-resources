@@ -5,7 +5,7 @@ Key:
 ## ToC
 1. [EDA, visualization, and data cleaning](#eda-visualization-and-data-cleaning) (8)
 2. [Mathematics for ML](#mathematics-for-ml) (12)
-3. [Statistics and probability](#statistics-and-probability) (13)
+3. [Statistics and probability](#statistics-and-probability) (14)
 4. [Linear regression](#linear-regression) (5)
 5. [Optimization](#optimization) (2)
 6. [Machine learning](#machine-learning) (41)
@@ -65,6 +65,7 @@ Key:
 * :orange_book: ["Statistical Modeling: An Excursion Through 14 Topics"](https://user.math.uzh.ch/furrer/download/sta121/script_sta121.pdf) by Reinhard Furrer
 * :orange_book: ["Robust Statistics"](http://parker.ad.siu.edu/Olive/runrob.pdf) by David J. Olive
 * :orange_book: ["CS109 Probability for Computer scientists"](https://chrispiech.github.io/probabilityForComputerScientists/en/ProbabilityForComputerScientists.pdf) by Chris Piech
+* :orange_book: ["Odds & Ends: Introducing Probability & Decision with a Visual Emphasis"](https://jonathanweisberg.org/vip/_main.pdf) by Jonathan Weisberg
 
 ---
 ### Linear regression
