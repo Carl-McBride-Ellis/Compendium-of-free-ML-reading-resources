@@ -5,10 +5,10 @@ Key:
 ## ToC
 1. [EDA, visualization, and data cleaning](#eda-visualization-and-data-cleaning) (8)
 2. [Mathematics for ML](#mathematics-for-ml) (12)
-3. [Statistics and probability](#statistics-and-probability) (14)
+3. [Statistics and probability](#statistics-and-probability) (15)
 4. [Linear regression](#linear-regression) (5)
 5. [Optimization](#optimization) (2)
-6. [Machine learning](#machine-learning) (41)
+6. [Machine learning](#machine-learning) (42)
 7. [R realted](#r-realted) (18)
 8. [Feature engineering](#feature-engineering) (2)
 9. [Explainability/interpretability](#explainabilityinterpretability) (2)
@@ -66,6 +66,7 @@ Key:
 * :orange_book: ["Robust Statistics"](http://parker.ad.siu.edu/Olive/runrob.pdf) by David J. Olive
 * :orange_book: ["CS109 Probability for Computer scientists"](https://chrispiech.github.io/probabilityForComputerScientists/en/ProbabilityForComputerScientists.pdf) by Chris Piech
 * :orange_book: ["Odds & Ends: Introducing Probability & Decision with a Visual Emphasis"](https://jonathanweisberg.org/vip/_main.pdf) by Jonathan Weisberg
+* :orange_book: ["Grinstead and Snell’s Introduction to Probability"](https://math.dartmouth.edu/~prob/prob/prob.pdf) by Peter G. Doyle
 
 ---
 ### Linear regression
@@ -117,6 +118,7 @@ Key:
 * :earth_africa: ["A Guide on Data Analysis"](https://bookdown.org/mike/data_analysis/) by Mike Nguyen
 * :earth_africa: ["Applied Machine Learning for Tabular Data"](https://aml4td.org/) by Max Kuhn, and Kjell Johnson
 * :earth_africa: ["Applied Machine Learning in Python: a Hands-on Guide with Code"](https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html) by Michael J. Pyrcz
+* :earth_africa: ["Learning Data Science"](https://learningds.org/) by Sam Lau, Joey Gonzalez, and Deb Nolan
 
 ##### arXiv
 * :orange_book: ["A Brief Introduction to Machine Learning for Engineers"](https://arxiv.org/pdf/1709.02840.pdf) by Osvaldo Simeone
