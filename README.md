@@ -22,6 +22,8 @@ Key:
 17. [Conformal prediction](#conformal-prediction) (3)
 18. [Time series: Forecasting](#time-series-forecasting) (7)
 
+Total number of books: **161**
+
 <sub>Note: All books listed here have been made freely available by their respective authors/publishers, and all [arXiv](https://arxiv.org/) papers are inherently free.</sub>
 
 ---
