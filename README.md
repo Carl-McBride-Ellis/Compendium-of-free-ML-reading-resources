@@ -12,7 +12,7 @@ Key:
 7. [R realted](#r-realted) (18)
 8. [Feature engineering](#feature-engineering) (2)
 9. [Explainability/interpretability](#explainabilityinterpretability) (2)
-10. [Deep learning / neural networks](#deep-learning--neural-networks) (15)
+10. [Deep learning / neural networks](#deep-learning--neural-networks) (16)
 11. [Reinforcement learning](#reinforcement-learning) (4)
 12. [Recommender systems](#recommender-systems) (2)
 13. [Anomaly detection](#anomaly-detection) (1)
@@ -174,6 +174,7 @@ Key:
 * :orange_book: ["Mathematical theory of deep learning"](https://arxiv.org/pdf/2407.18384) by Philipp Petersen, and Jakob Zech
 * :orange_book: ["Theory of Deep Learning"](https://www.cs.princeton.edu/~arora/TheoryDL.pdf) by Sanjeev Arora, *et al.*
 * :orange_book: ["Loss Functions and Metrics in Deep Learning"](https://arxiv.org/pdf/2307.02694) by Juan Terven, Diana M. Cordova-Esparza, Alfonso Ramirez-Pedraza, Edgar A. Chavez-Urbiola, and Julio A. Romero-Gonzalez
+* :orange_book: ["Understanding Deep Learning"](https://drive.google.com/file/d/1fejSMGPIDMO4eilsIDj-7QcFsCge4vdv/view) by Chitta Ranjan
 * :earth_africa: ["Deep Learning: Foundations and Concepts"](https://issuu.com/cmb321/docs/deep_learning_ebook) by Christopher M. Bishop and Hugh Bishop
 * :earth_africa: ["Deep Learning for Coders with fastai and PyTorch: AI Applications Without a PhD"](https://course.fast.ai/Resources/book.html) by Jeremy Howard, and Sylvain Gugger
 
