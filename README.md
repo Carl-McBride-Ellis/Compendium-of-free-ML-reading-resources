@@ -88,7 +88,7 @@ Total number of books: **162**
 ##### Books
 * :orange_book: ["An Introduction to Statistical Learning with Applications in Python"](https://hastie.su.domains/ISLP/ISLP_website.pdf.view-in-google.html) by James, Witten, Hastie, Tibshirani, and Taylor
 * :orange_book: ["The Elements of Statistical Learning"](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf) by Hastie, Tibshirani, and Friedman
-* :orange_book: ["Computer Age Statistical Inference: Algorithms, Evidence and Data Science"](https://hastie.su.domains/CASI_files/PDF/casi.pdf) by Bradley Efron and Trevor Hastie
+* :orange_book: ["Computer Age Statistical Inference: Algorithms, Evidence and Data Science"](https://hastie.su.domains/CASI_files/PDF/casi.pdf.download.html) by Bradley Efron and Trevor Hastie
 * :orange_book: ["Pattern Recognition and Machine Learning"](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) by Christopher M. Bishop
 * :orange_book: ["Probabilistic Machine Learning: An Introduction"](https://github.com/probml/pml-book/releases/latest/download/book1.pdf) by Kevin Patrick Murphy
 * :orange_book: ["Probabilistic Machine Learning: Advanced Topics"](https://github.com/probml/pml2-book/releases/latest/download/book2.pdf) by Kevin Patrick Murphy
