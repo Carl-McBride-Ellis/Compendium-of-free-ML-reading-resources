@@ -7,7 +7,7 @@ Key:
 2. [Mathematics for ML](#mathematics-for-ml) (12)
 3. [Statistics and probability](#statistics-and-probability) (15)
 4. [Linear regression](#linear-regression) (5)
-5. [Optimization](#optimization) (2)
+5. [Optimization](#optimization) (3)
 6. [Machine learning](#machine-learning) (42)
 7. [R realted](#r-realted) (18)
 8. [Feature engineering](#feature-engineering) (2)
@@ -22,7 +22,7 @@ Key:
 17. [Conformal prediction](#conformal-prediction) (4)
 18. [Time series: Forecasting](#time-series-forecasting) (7)
 
-Total number of books: **162**
+Total number of books: **163**
 
 <sub>Note: All books listed here have been made freely available by their respective authors/publishers, and all [arXiv](https://arxiv.org/) papers are inherently free.</sub>
 
@@ -82,6 +82,7 @@ Total number of books: **162**
 ### Optimization
 * :orange_book: ["Convex Optimization"](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) by Stephen Boyd and Lieven Vandenberghe
 * :orange_book: ["An introduction to optimization on smooth manifolds"](https://www.nicolasboumal.net/book/IntroOptimManifolds_Boumal_2023.pdf) by Nicolas Boumal
+* :orange_book: ["Lecture Notes: Optimization for Machine Learning"](https://arxiv.org/pdf/1909.03550) by Elad Hazan
 
 ---
 ### Machine learning
