@@ -13,7 +13,7 @@ Key:
 8. [Feature engineering](#feature-engineering) (2)
 9. [Explainability/interpretability](#explainabilityinterpretability) (2)
 10. [Deep learning / neural networks](#deep-learning--neural-networks) (16)
-11. [Reinforcement learning](#reinforcement-learning) (4)
+11. [Reinforcement learning](#reinforcement-learning) (5)
 12. [Recommender systems](#recommender-systems) (2)
 13. [Anomaly detection](#anomaly-detection) (1)
 14. [Computer vision](#computer-vision) (2)
@@ -22,7 +22,7 @@ Key:
 17. [Conformal prediction](#conformal-prediction) (4)
 18. [Time series: Forecasting](#time-series-forecasting) (7)
 
-Total number of books: **163**
+Total number of books: **164**
 
 <sub>Note: All books listed here have been made freely available by their respective authors/publishers, and all [arXiv](https://arxiv.org/) papers are inherently free.</sub>
 
@@ -187,6 +187,7 @@ Total number of books: **163**
 * :orange_book: ["Multi-Agent Reinforcement Learning"](https://www.marl-book.com/download) by  Stefano V. Albrecht,  Filippos Christianos, and Lukas Schäfer
 * :orange_book: ["Distributional Reinforcement Learning"](https://direct.mit.edu/books/book-pdf/2111075/book_9780262374026.pdf) by  Marc G. Bellemare, Will Dabney, and Mark Rowland
 * :orange_book: ["Mathematical Foundations of Reinforcement Learning"](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning/blob/main/Book-all-in-one.pdf) by Shiyu Zhao
+* :orange_book: ["Reinforcement Learning: Foundations"](https://drive.google.com/file/d/1QApF7NFEciyD3C8V5ugYcnxkg6BPutqw/view) by Shie Mannor, Yishay Mansour, and Aviv Tamar
 
 ---
 ### Recommender systems
