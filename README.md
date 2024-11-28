@@ -5,7 +5,7 @@ Key:
 ## ToC
 1. [EDA, visualization, and data cleaning](#eda-visualization-and-data-cleaning) (8)
 2. [Mathematics for ML](#mathematics-for-ml) (12)
-3. [Statistics and probability](#statistics-and-probability) (15)
+3. [Statistics and probability](#statistics-and-probability) (16)
 4. [Linear regression](#linear-regression) (5)
 5. [Optimization](#optimization) (3)
 6. [Machine learning](#machine-learning) (43)
@@ -22,7 +22,7 @@ Key:
 17. [Conformal prediction](#conformal-prediction) (4)
 18. [Time series: Forecasting](#time-series-forecasting) (7)
 
-Total number of books: **165**
+Total number of books: **166**
 
 <sub>Note: All books listed here have been made freely available by their respective authors/publishers, and all [arXiv](https://arxiv.org/) papers are inherently free.</sub>
 
@@ -69,6 +69,7 @@ Total number of books: **165**
 * :orange_book: ["CS109 Probability for Computer scientists"](https://chrispiech.github.io/probabilityForComputerScientists/en/ProbabilityForComputerScientists.pdf) by Chris Piech
 * :orange_book: ["Odds & Ends: Introducing Probability & Decision with a Visual Emphasis"](https://jonathanweisberg.org/vip/_main.pdf) by Jonathan Weisberg
 * :orange_book: ["Grinstead and Snell’s Introduction to Probability"](https://math.dartmouth.edu/~prob/prob/prob.pdf) by Peter G. Doyle
+* :orange_book: ["High-Dimensional Probability: An Introduction with Applications in Data Science"](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf) by Roman Vershynin
 
 ---
 ### Linear regression
