@@ -8,7 +8,7 @@ Key:
 3. [Statistics and probability](#statistics-and-probability) (16)
 4. [Linear regression](#linear-regression) (5)
 5. [Optimization](#optimization) (3)
-6. [Machine learning](#machine-learning) (43)
+6. [Machine learning](#machine-learning) (44)
 7. [R realted](#r-realted) (18)
 8. [Feature engineering](#feature-engineering) (2)
 9. [Explainability/interpretability](#explainabilityinterpretability) (2)
@@ -22,7 +22,7 @@ Key:
 17. [Conformal prediction](#conformal-prediction) (4)
 18. [Time series: Forecasting](#time-series-forecasting) (7)
 
-Total number of books: **165**
+Total number of books: **166**
 
 <sub>Note: All books listed here have been made freely available by their respective authors/publishers, and all [arXiv](https://arxiv.org/) papers are inherently free.</sub>
 
@@ -133,6 +133,7 @@ Total number of books: **165**
 * :orange_book: ["Hyper-Parameter Optimization: A Review of Algorithms and Applications"](https://arxiv.org/pdf/2003.05689.pdf) by Tong Yu and Hong Zhu
 * :orange_book: ["How to avoid machine learning pitfalls: a guide for academic researchers"](https://arxiv.org/pdf/2108.02497.pdf) by Michael A. Lones
 * :orange_book: ["Online Learning: A Comprehensive Survey"](https://arxiv.org/pdf/1802.02871.pdf) by Steven C. H. Hoi, Doyen Sahoo, Jing Lu and Peilin Zhao
+* :orange_book: ["Introduction to Machine Learning"](https://arxiv.org/pdf/2409.02668) by Laurent Younes
 
 ---
 ### [R](https://www.r-project.org/) realted
