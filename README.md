@@ -11,7 +11,7 @@ Key:
 6. [Machine learning](#machine-learning) (44)
 7. [R realted](#r-realted) (18)
 8. [Feature engineering](#feature-engineering) (2)
-9. [Explainability/interpretability](#explainabilityinterpretability) (2)
+9. [Explainability/interpretability](#explainabilityinterpretability) (3)
 10. [Deep learning / neural networks](#deep-learning--neural-networks) (15)
 11. [Reinforcement learning](#reinforcement-learning) (5)
 12. [Recommender systems](#recommender-systems) (2)
@@ -22,7 +22,7 @@ Key:
 17. [Conformal prediction](#conformal-prediction) (4)
 18. [Time series: Forecasting](#time-series-forecasting) (7)
 
-Total number of books: **166**
+Total number of books: **167**
 
 <sub>Note: All books listed here have been made freely available by their respective authors/publishers, and all [arXiv](https://arxiv.org/) papers are inherently free.</sub>
 
@@ -163,6 +163,7 @@ Total number of books: **166**
 
 ---
 ### Explainability/interpretability
+* :orange_book: ["Trustworthy Machine Learning"](http://trustworthymachinelearning.com/trustworthymachinelearning.pdf) by Kush R. Varshney
 * :earth_africa: ["Interpretable Machine Learning: A Guide for Making Black Box Models Explainable"](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
 * :earth_africa: ["Explanatory Model Analysis"](https://ema.drwhy.ai/) by Przemyslaw Biecek and Tomasz Burzykowski
 
