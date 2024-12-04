@@ -11,7 +11,7 @@ Key:
 6. [Machine learning](#machine-learning) (44)
 7. [R realted](#r-realted) (18)
 8. [Feature engineering](#feature-engineering) (2)
-9. [Explainability/interpretability](#explainabilityinterpretability) (4)
+9. [Explainability/interpretability](#explainabilityinterpretability) (5)
 10. [Deep learning / neural networks](#deep-learning--neural-networks) (15)
 11. [Reinforcement learning](#reinforcement-learning) (5)
 12. [Recommender systems](#recommender-systems) (2)
@@ -22,7 +22,7 @@ Key:
 17. [Conformal prediction](#conformal-prediction) (4)
 18. [Time series: Forecasting](#time-series-forecasting) (7)
 
-Total number of books: **168**
+Total number of books: **169**
 
 <sub>Note: All books listed here have been made freely available by their respective authors/publishers, and all [arXiv](https://arxiv.org/) papers are inherently free.</sub>
 
@@ -164,8 +164,8 @@ Total number of books: **168**
 ---
 ### Explainability/interpretability
 * :orange_book: ["Trustworthy Machine Learning"](http://trustworthymachinelearning.com/trustworthymachinelearning.pdf) by Kush R. Varshney
-* :orange_book: ["Trustworthy Machine Learning: Theory, Applications, Intuitions"](https://twml.cdn.prismic.io/twml/091580bb-9ba5-4821-a80a-d837d4ba1307_Trustworthy+Machine+Learning+book+2023.pdf) by Bálint Mucsányi, Michael Kirchhof, Elisa Nguyen,
-Alexander Rubinstein, and Seong Joon Oh
+* :orange_book: ["Trustworthy Machine Learning: Theory, Applications, Intuitions"](https://twml.cdn.prismic.io/twml/091580bb-9ba5-4821-a80a-d837d4ba1307_Trustworthy+Machine+Learning+book+2023.pdf) by Bálint Mucsányi, Michael Kirchhof, Elisa Nguyen, Alexander Rubinstein, and Seong Joon Oh
+* :orange_book: ["A Comprehensive Guide to Explainable AI: From Classical Models to LLMs"](https://arxiv.org/pdf/2412.00800) by Weiche Hsieh, *et al.*
 * :earth_africa: ["Interpretable Machine Learning: A Guide for Making Black Box Models Explainable"](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
 * :earth_africa: ["Explanatory Model Analysis"](https://ema.drwhy.ai/) by Przemyslaw Biecek and Tomasz Burzykowski
 
@@ -192,7 +192,7 @@ Alexander Rubinstein, and Seong Joon Oh
 * :orange_book: ["Reinforcement Learning: An Introduction"](http://www.incompleteideas.net/book/RLbook2020.pdf) by Richard S. Sutton and Andrew G. Barto
 * :orange_book: ["Multi-Agent Reinforcement Learning"](https://www.marl-book.com/download) by  Stefano V. Albrecht,  Filippos Christianos, and Lukas Schäfer
 * :orange_book: ["Distributional Reinforcement Learning"](https://direct.mit.edu/books/book-pdf/2111075/book_9780262374026.pdf) by  Marc G. Bellemare, Will Dabney, and Mark Rowland
-* :orange_book: ["Mathematical Foundations of Reinforcement Learning"](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning/blob/main/Book-all-in-one.pdf) by Shiyu Zhao
+* :orange_book: ["Mathematical Foundations of Reinforcement Learning"](https://raw.githubusercontent.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning/refs/heads/main/Book-all-in-one.pdf) by Shiyu Zhao
 * :orange_book: ["Reinforcement Learning: Foundations"](https://drive.google.com/file/d/1QApF7NFEciyD3C8V5ugYcnxkg6BPutqw/view) by Shie Mannor, Yishay Mansour, and Aviv Tamar
 
 ---
@@ -224,7 +224,6 @@ Alexander Rubinstein, and Seong Joon Oh
 * :orange_book: ["A Survey of Large Language Models"](https://arxiv.org/pdf/2303.18223.pdf) by Wayne Xin Zhao, *et al.*
 * :orange_book: ["Large Language Models: A Survey"](https://arxiv.org/pdf/2402.06196) by Shervin Minaee, *et al.*
 * :orange_book: ["A Comprehensive Overview of Large Language Models"](https://arxiv.org/pdf/2307.06435) by Humza Naveed, *et al.*
-
 
 ---
 ### Causal inference
