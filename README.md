@@ -6,7 +6,7 @@ Key:
 1. [EDA, visualization, and data cleaning](#eda-visualization-and-data-cleaning) (8)
 2. [Mathematics for ML](#mathematics-for-ml) (12)
 3. [Statistics and probability](#statistics-and-probability) (16)
-4. [Linear regression](#linear-regression) (5)
+4. [Linear regression](#linear-regression) (6)
 5. [Optimization](#optimization) (5)
 6. [Machine learning](#machine-learning) (44)
 7. [R realted](#r-realted) (18)
@@ -22,7 +22,7 @@ Key:
 17. [Conformal prediction](#conformal-prediction) (4)
 18. [Time series: Forecasting](#time-series-forecasting) (7)
 
-Total number of books: **173**
+Total number of books: **174**
 
 <sub>Note: All books listed here have been made freely available by their respective authors/publishers, and all [arXiv](https://arxiv.org/) papers are inherently free.</sub>
 
@@ -77,6 +77,7 @@ Total number of books: **173**
 * :orange_book: ["Lecture notes on Ridge regression"](https://arxiv.org/pdf/1509.09169.pdf) by Wessel N. van Wieringen
 * :orange_book: ["Linear Model and Extensions"](https://arxiv.org/pdf/2401.00649.pdf) by Peng Ding
 * :orange_book: ["Regression and Other Stories"](https://users.aalto.fi/~ave/ROS.pdf) by Andrew Gelman, Jennifer Hill, and Aki Vehtari
+* :orange_book: ["Lecture Notes on High Dimensional Linear Regression"](https://arxiv.org/pdf/2412.15633) by Alberto Quaini
 * :earth_africa: ["Analysing Data using Linear Models"](https://bookdown.org/pingapang9/linear_models_bookdown/) by Stéphanie M. van den Berg
 
 ---
