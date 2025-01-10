@@ -12,7 +12,7 @@ Key:
 7. [R realted](#r-realted) (18)
 8. [Feature engineering](#feature-engineering) (2)
 9. [Explainability/interpretability](#explainabilityinterpretability) (5)
-10. [Deep learning / neural networks](#deep-learning--neural-networks) (15)
+10. [Deep learning / neural networks](#deep-learning--neural-networks) (16)
 11. [Reinforcement learning](#reinforcement-learning) (7)
 12. [Recommender systems](#recommender-systems) (2)
 13. [Anomaly detection](#anomaly-detection) (1)
@@ -22,7 +22,7 @@ Key:
 17. [Conformal prediction](#conformal-prediction) (4)
 18. [Time series: Forecasting](#time-series-forecasting) (7)
 
-Total number of books: **177**
+Total number of books: **178**
 
 <sub>Note: All books listed here have been made freely available by their respective authors/publishers, and all [arXiv](https://arxiv.org/) papers are inherently free.</sub>
 
@@ -178,6 +178,7 @@ Total number of books: **177**
 ---
 ### Deep learning / neural networks
 * :orange_book: ["The Modern Mathematics of Deep Learning"](https://arxiv.org/pdf/2105.04026.pdf) by Julius Berner, Philipp Grohs, Gitta Kutyniok, and Philipp Petersen
+* :orange_book: ["Mathematics of Neural Networks"](https://arxiv.org/pdf/2403.04807) by Bart M.N. Smets
 * :orange_book: ["The Principles of Deep Learning Theory"](https://arxiv.org/pdf/2106.10165.pdf) by Daniel A. Roberts, Sho Yaida, and Boris Hanin
 * :orange_book: ["Machine learning with neural networks"](https://arxiv.org/pdf/1901.05639.pdf) by Bernhard Mehlig
 * :orange_book: ["Dive into Deep Learning"](https://arxiv.org/pdf/2106.11342.pdf) by Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola
