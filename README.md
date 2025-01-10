@@ -8,7 +8,7 @@ Key:
 3. [Statistics and probability](#statistics-and-probability) (16)
 4. [Linear regression](#linear-regression) (6)
 5. [Optimization](#optimization) (6)
-6. [Machine learning](#machine-learning) (44)
+6. [Machine learning](#machine-learning) (45)
 7. [R realted](#r-realted) (18)
 8. [Feature engineering](#feature-engineering) (2)
 9. [Explainability/interpretability](#explainabilityinterpretability) (5)
@@ -22,7 +22,7 @@ Key:
 17. [Conformal prediction](#conformal-prediction) (4)
 18. [Time series: Forecasting](#time-series-forecasting) (7)
 
-Total number of books: **176**
+Total number of books: **177**
 
 <sub>Note: All books listed here have been made freely available by their respective authors/publishers, and all [arXiv](https://arxiv.org/) papers are inherently free.</sub>
 
@@ -123,6 +123,7 @@ Total number of books: **176**
 * :orange_book: ["Hyperparameter Tuning for Machine and Deep Learning with R: A Practical Guide"](https://link.springer.com/content/pdf/10.1007/978-981-19-5170-1.pdf) Eds.:  Eva Bartz, Thomas Bartz-Beielstein, Martin Zaefferer, and Olaf Mersmann
 * :orange_book: ["Foundations of Data Science"](https://www.cs.cornell.edu/jeh/book.pdf) by Avrim Blum, John Hopcroft, and Ravindran Kannan
 * :orange_book: ["Machine Learning Systems: Principles and Practices of Engineering Artificially Intelligent Systems"](https://mlsysbook.ai/Machine-Learning-Systems.pdf) by Vĳay Janapa Reddi
+* :orange_book: ["Concise Machine Learning"](https://people.eecs.berkeley.edu/~jrs/papers/machlearn.pdf) by Jonathan Richard Shewchuk
 * :earth_africa: ["Supervised Machine Learning for Science"](https://ml-science-book.com/) by Christoph Molnar, and Timo Freiesleben
 * :earth_africa: ["Python Data Science Handbook"](https://jakevdp.github.io/PythonDataScienceHandbook/) by Jake VanderPlas
 * :earth_africa: ["A Guide on Data Analysis"](https://bookdown.org/mike/data_analysis/) by Mike Nguyen
