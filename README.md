@@ -17,12 +17,12 @@ Key:
 12. [Recommender systems](#recommender-systems) (2)
 13. [Anomaly detection](#anomaly-detection) (1)
 14. [Computer vision](#computer-vision) (2)
-15. [Natural language processing (NLP) and large language models (LLM)](#natural-language-processing-nlp-and-large-language-models-llm) (11)
+15. [Natural language processing (NLP) and large language models (LLM)](#natural-language-processing-nlp-and-large-language-models-llm) (13)
 16. [Causal inference](#causal-inference) (9)
 17. [Conformal prediction](#conformal-prediction) (4)
 18. [Time series: Forecasting](#time-series-forecasting) (7)
 
-Total number of books: **178**
+Total number of books: **180**
 
 <sub>Note: All books listed here have been made freely available by their respective authors/publishers, and all [arXiv](https://arxiv.org/) papers are inherently free.</sub>
 
@@ -226,13 +226,13 @@ Total number of books: **178**
 * :orange_book: ["Formal Aspects of Language Modeling"](https://arxiv.org/pdf/2311.04329.pdf) by Ryan Cotterell, Anej Svete, Clara Meister, Tianyu Liu, and Li Du
 * :orange_book: ["Foundation Models for Natural Language Processing"](https://link.springer.com/content/pdf/10.1007/978-3-031-23190-2.pdf) by  Gerhard Paaß, and Sven Giesselbach
 * :orange_book: ["What are embeddings"](https://raw.githubusercontent.com/veekaybee/what_are_embeddings/main/embeddings.pdf) by Vicki Boykis
-* :earth_africa: ["Text Mining with R: A Tidy Approach"](https://www.tidytextmining.com/) by Julia Silge and David Robinson
-* :earth_africa: ["Natural Language Processing with Python - Analyzing Text with the Natural Language Toolkit"](https://www.nltk.org/book/) by Steven Bird, Ewan Klein, and Edward Loper
-
-##### arXiv reviews
 * :orange_book: ["A Survey of Large Language Models"](https://arxiv.org/pdf/2303.18223.pdf) by Wayne Xin Zhao, *et al.*
 * :orange_book: ["Large Language Models: A Survey"](https://arxiv.org/pdf/2402.06196) by Shervin Minaee, *et al.*
 * :orange_book: ["A Comprehensive Overview of Large Language Models"](https://arxiv.org/pdf/2307.06435) by Humza Naveed, *et al.*
+* :orange_book: ["A Survey on Large Language Models with some Insights on their Capabilities and Limitations"](https://arxiv.org/pdf/2501.04040) by Andrea Matarazzo, and Riccardo Torlone
+* :orange_book: ["Foundations of Large Language Models"](https://arxiv.org/pdf/2501.09223) by Tong Xiao, and Jingbo Zhu
+* :earth_africa: ["Text Mining with R: A Tidy Approach"](https://www.tidytextmining.com/) by Julia Silge and David Robinson
+* :earth_africa: ["Natural Language Processing with Python - Analyzing Text with the Natural Language Toolkit"](https://www.nltk.org/book/) by Steven Bird, Ewan Klein, and Edward Loper
 
 ---
 ### Causal inference
