@@ -19,10 +19,10 @@ Key:
 14. [Computer vision](#computer-vision) (2)
 15. [Natural language processing (NLP) and large language models (LLM)](#natural-language-processing-nlp-and-large-language-models-llm) (13)
 16. [Causal inference](#causal-inference) (9)
-17. [Conformal prediction](#conformal-prediction) (4)
+17. [Conformal prediction](#conformal-prediction) (5)
 18. [Time series: Forecasting](#time-series-forecasting) (7)
 
-Total number of books: **180**
+Total number of books: **181**
 
 <sub>Note: All books listed here have been made freely available by their respective authors/publishers, and all [arXiv](https://arxiv.org/) papers are inherently free.</sub>
 
@@ -252,6 +252,7 @@ Total number of books: **180**
 * :orange_book: ["Conformal Prediction: a Unified Review of Theory and New Challenges"](https://arxiv.org/pdf/2005.07972.pdf) by Matteo Fontana, Gianluca Zeni and Simone Vantini
 * :orange_book: ["A Gentle Introduction to Conformal Prediction and Distribution-Free Uncertainty Quantification"](https://arxiv.org/pdf/2107.07511.pdf) by Anastasios N. Angelopoulos and Stephen Bates
 * :orange_book: ["Theoretical Foundations of Conformal Prediction"](https://arxiv.org/pdf/2411.11824) by Anastasios N. Angelopoulos, Rina Foygel Barber, and Stephen Bates
+* :orange_book: ["Machine Learning Learning Beyond Point Predictions: Uncertainty Quantification"](https://rafaelizbicki.com/UQ4ML.pdf) by Rafael Izbicki
 
 ---
 ### Time series: Forecasting
