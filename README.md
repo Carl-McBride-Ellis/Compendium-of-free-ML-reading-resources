@@ -7,7 +7,7 @@ Key:
 2. [Mathematics for ML](#mathematics-for-ml) (13)
 3. [Statistics and probability](#statistics-and-probability) (16)
 4. [Linear regression](#linear-regression) (6)
-5. [Optimization](#optimization) (6)
+5. [Optimization](#optimization) (7)
 6. [Machine learning](#machine-learning) (45)
 7. [R realted](#r-realted) (18)
 8. [Feature engineering](#feature-engineering) (2)
@@ -22,7 +22,7 @@ Key:
 17. [Conformal prediction](#conformal-prediction) (5)
 18. [Time series: Forecasting](#time-series-forecasting) (7)
 
-Total number of books: **181**
+Total number of books: **182**
 
 <sub>Note: All books listed here have been made freely available by their respective authors/publishers, and all [arXiv](https://arxiv.org/) papers are inherently free.</sub>
 
@@ -89,6 +89,7 @@ Total number of books: **181**
 * :orange_book: ["A Modern Approach to Teaching an Introduction to Optimization"](https://castle.princeton.edu/wp-content/uploads/2024/01/Powell-MATO-Final-Jan-23-2024.pdf) by Warren B. Powell
 * :orange_book: ["Bayesian Optimization"](https://bayesoptbook.com/book/bayesoptbook_a4.pdf) by Roman Garnett
 * :orange_book: ["Fundamentals of Optimization Theory With Applications to Machine Learning"](https://www.seas.upenn.edu/~cis5150/linalg-II.pdf) by Jean Gallier and Jocelyn Quaintance
+* :orange_book: ["Algorithms for Optimization"](https://algorithmsbook.com/optimization/files/optimization.pdf) by Mykel J. Kochenderfer, and Tim A. Wheeler
 
 ---
 ### Machine learning
