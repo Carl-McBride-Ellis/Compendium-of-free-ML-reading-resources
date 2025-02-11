@@ -4,7 +4,7 @@ Key:
 * :earth_africa: html book
 ## ToC
 1. [EDA, visualization, and data cleaning](#eda-visualization-and-data-cleaning) (8)
-2. [Mathematics for ML](#mathematics-for-ml) (13)
+2. [Mathematics for ML](#mathematics-for-ml) (14)
 3. [Statistics and probability](#statistics-and-probability) (16)
 4. [Linear regression](#linear-regression) (6)
 5. [Optimization](#optimization) (7)
@@ -22,7 +22,7 @@ Key:
 17. [Conformal prediction](#conformal-prediction) (5)
 18. [Time series: Forecasting](#time-series-forecasting) (7)
 
-Total number of books: **183**
+Total number of books: **184**
 
 <sub>Note: All books listed here have been made freely available by their respective authors/publishers, and all [arXiv](https://arxiv.org/) papers are inherently free.</sub>
 
@@ -51,6 +51,7 @@ Total number of books: **183**
 * :orange_book: ["Linear Algebra for Data Science"](https://drive.google.com/file/d/1nJVwdQV9zp-Q9VQenZF0-HOOG6L2lEOD/view) by Wanmo Kang, and Kyunghyun Cho
 * :orange_book: ["Linear Algebra for Computer Vision, Robotics, and Machine Learning"](https://www.seas.upenn.edu/~cis5150/linalg-I.pdf) by Jean Gallier and Jocelyn Quaintance
 * :orange_book: ["Spline Methods"](https://www.uio.no/studier/emner/matnat/math/MAT4170/v18/pensumliste/splinebook-2018.pdf) by Tom Lyche, and Knut Mørken
+* :orange_book: ["Matrix Calculus (for Machine Learning and Beyond)"](https://arxiv.org/pdf/2501.14787) by Paige Bright, Alan Edelman, Steven G. Johnson
 * :earth_africa: ["Linear Algebra for Data Science with examples in R"](https://shainarace.github.io/LinearAlgebra/index.html) by Shaina Race Bennett
 
 ---
