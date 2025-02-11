@@ -13,7 +13,7 @@ Key:
 8. [Feature engineering](#feature-engineering) (2)
 9. [Explainability/interpretability](#explainabilityinterpretability) (5)
 10. [Deep learning / neural networks](#deep-learning--neural-networks) (16)
-11. [Reinforcement learning](#reinforcement-learning) (7)
+11. [Reinforcement learning](#reinforcement-learning) (8)
 12. [Recommender systems](#recommender-systems) (2)
 13. [Anomaly detection](#anomaly-detection) (1)
 14. [Computer vision](#computer-vision) (2)
@@ -22,7 +22,7 @@ Key:
 17. [Conformal prediction](#conformal-prediction) (5)
 18. [Time series: Forecasting](#time-series-forecasting) (7)
 
-Total number of books: **182**
+Total number of books: **183**
 
 <sub>Note: All books listed here have been made freely available by their respective authors/publishers, and all [arXiv](https://arxiv.org/) papers are inherently free.</sub>
 
@@ -204,6 +204,7 @@ Total number of books: **182**
 * :orange_book: ["Reinforcement Learning: Foundations"](https://drive.google.com/file/d/1QApF7NFEciyD3C8V5ugYcnxkg6BPutqw/view) by Shie Mannor, Yishay Mansour, and Aviv Tamar
 * :orange_book: ["Reinforcement Learning: An Overview"](https://arxiv.org/pdf/2412.05265) by Kevin Murphy
 * :orange_book: ["An Introduction to Deep Reinforcement Learning"](https://arxiv.org/pdf/1811.12560) by Vincent Francois-Lavet, Peter Henderson, Riashat Islam, Marc G. Bellemare, and Joelle Pineau
+* :orange_book: ["The Mathematics of Reinforcement Learning"](https://www.wim.uni-mannheim.de/media/Lehrstuehle/wim/doering/RL/RL_VORLESUNG.pdf) by Leif Döring
 
 ---
 ### Recommender systems
