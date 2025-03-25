@@ -4,10 +4,10 @@ Key:
 * :earth_africa: html book
 ## ToC
 1. [EDA, visualization, and data cleaning](#eda-visualization-and-data-cleaning) (8)
-2. [Mathematics for ML](#mathematics-for-ml) (14)
+2. [Mathematics for ML](#mathematics-for-ml) (15)
 3. [Statistics and probability](#statistics-and-probability) (16)
-4. [Linear regression](#linear-regression) (6)
-5. [Optimization](#optimization) (7)
+4. [Optimization](#optimization) (7)
+5. [Linear regression](#linear-regression) (6)
 6. [Machine learning](#machine-learning) (46)
 7. [R realted](#r-realted) (18)
 8. [Feature engineering](#feature-engineering) (2)
@@ -22,7 +22,7 @@ Key:
 17. [Conformal prediction](#conformal-prediction) (5)
 18. [Time series: Forecasting](#time-series-forecasting) (7)
 
-Total number of books: **185**
+Total number of books: **186**
 
 <sub>Note: All books listed here have been made freely available by their respective authors/publishers, and all [arXiv](https://arxiv.org/) papers are inherently free.</sub>
 
@@ -52,6 +52,7 @@ Total number of books: **185**
 * :orange_book: ["Linear Algebra for Computer Vision, Robotics, and Machine Learning"](https://www.seas.upenn.edu/~cis5150/linalg-I.pdf) by Jean Gallier and Jocelyn Quaintance
 * :orange_book: ["Spline Methods"](https://www.uio.no/studier/emner/matnat/math/MAT4170/v18/pensumliste/splinebook-2018.pdf) by Tom Lyche, and Knut Mørken
 * :orange_book: ["Matrix Calculus (for Machine Learning and Beyond)"](https://arxiv.org/pdf/2501.14787) by Paige Bright, Alan Edelman, Steven G. Johnson
+* :orange_book: ["Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning"](https://www.cis.upenn.edu/~jean/math-deep.pdf) by Jean Gallier and Jocelyn Quaintance
 * :earth_africa: ["Linear Algebra for Data Science with examples in R"](https://shainarace.github.io/LinearAlgebra/index.html) by Shaina Race Bennett
 
 ---
@@ -74,15 +75,6 @@ Total number of books: **185**
 * :orange_book: ["High-Dimensional Probability: An Introduction with Applications in Data Science"](https://www.math.uci.edu/~rvershyn/papers/HDP-book/HDP-book.pdf) by Roman Vershynin
 
 ---
-### Linear regression
-* :orange_book: ["The Truth about Linear Regression"](https://www.stat.cmu.edu/~cshalizi/TALR/TALR.pdf) by Cosma Rohilla Shalizi
-* :orange_book: ["Lecture notes on Ridge regression"](https://arxiv.org/pdf/1509.09169.pdf) by Wessel N. van Wieringen
-* :orange_book: ["Linear Model and Extensions"](https://arxiv.org/pdf/2401.00649.pdf) by Peng Ding
-* :orange_book: ["Regression and Other Stories"](https://users.aalto.fi/~ave/ROS.pdf) by Andrew Gelman, Jennifer Hill, and Aki Vehtari
-* :orange_book: ["Lecture Notes on High Dimensional Linear Regression"](https://arxiv.org/pdf/2412.15633) by Alberto Quaini
-* :earth_africa: ["Analysing Data using Linear Models"](https://bookdown.org/pingapang9/linear_models_bookdown/) by Stéphanie M. van den Berg
-
----
 ### Optimization
 * :orange_book: ["Convex Optimization"](https://web.stanford.edu/~boyd/cvxbook/bv_cvxbook.pdf) by Stephen Boyd and Lieven Vandenberghe
 * :orange_book: ["An introduction to optimization on smooth manifolds"](https://www.nicolasboumal.net/book/IntroOptimManifolds_Boumal_2023.pdf) by Nicolas Boumal
@@ -93,8 +85,17 @@ Total number of books: **185**
 * :orange_book: ["Algorithms for Optimization"](https://algorithmsbook.com/optimization/files/optimization.pdf) by Mykel J. Kochenderfer, and Tim A. Wheeler
 
 ---
+### Linear regression
+* :orange_book: ["The Truth about Linear Regression"](https://www.stat.cmu.edu/~cshalizi/TALR/TALR.pdf) by Cosma Rohilla Shalizi
+* :orange_book: ["Lecture notes on Ridge regression"](https://arxiv.org/pdf/1509.09169.pdf) by Wessel N. van Wieringen
+* :orange_book: ["Linear Model and Extensions"](https://arxiv.org/pdf/2401.00649.pdf) by Peng Ding
+* :orange_book: ["Regression and Other Stories"](https://users.aalto.fi/~ave/ROS.pdf) by Andrew Gelman, Jennifer Hill, and Aki Vehtari
+* :orange_book: ["Lecture Notes on High Dimensional Linear Regression"](https://arxiv.org/pdf/2412.15633) by Alberto Quaini
+* :earth_africa: ["Analysing Data using Linear Models"](https://bookdown.org/pingapang9/linear_models_bookdown/) by Stéphanie M. van den Berg
+
+
+---
 ### Machine learning
-##### Books
 * :orange_book: ["An Introduction to Statistical Learning with Applications in Python"](https://hastie.su.domains/ISLP/ISLP_website.pdf.view-in-google.html) by James, Witten, Hastie, Tibshirani, and Taylor
 * :orange_book: ["The Elements of Statistical Learning"](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf) by Hastie, Tibshirani, and Friedman
 * :orange_book: ["Computer Age Statistical Inference: Algorithms, Evidence and Data Science"](https://hastie.su.domains/CASI_files/PDF/casi.pdf.download.html) by Bradley Efron and Trevor Hastie
