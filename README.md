@@ -4,7 +4,7 @@ Key:
 * :earth_africa: html book
 ## ToC
 1. [EDA, visualization, and data cleaning](#eda-visualization-and-data-cleaning) (8)
-2. [Mathematics for ML](#mathematics-for-ml) (15)
+2. [Mathematics for ML](#mathematics-for-ml) (14)
 3. [Statistics and probability](#statistics-and-probability) (16)
 4. [Optimization](#optimization) (7)
 5. [Linear regression](#linear-regression) (6)
@@ -22,7 +22,7 @@ Key:
 17. [Conformal prediction](#conformal-prediction) (5)
 18. [Time series: Forecasting](#time-series-forecasting) (7)
 
-Total number of books: **186**
+Total number of books: **185**
 
 <sub>Note: All books listed here have been made freely available by their respective authors/publishers, and all [arXiv](https://arxiv.org/) papers are inherently free.</sub>
 
@@ -45,7 +45,6 @@ Total number of books: **186**
 * :orange_book: ["Linear Algebra Done Wrong"](https://www.math.brown.edu/streil/papers/LADW/LADW_2017-09-04.pdf) by Sergei Treil
 * :orange_book: ["Linear Algebra Done Right"](https://link.springer.com/content/pdf/10.1007/978-3-031-41026-0.pdf) by Sheldon Axler
 * :orange_book: ["Linear Algebra, Theory And Applications"](https://d2orq2otfnmxdd.cloudfront.net/books/Linearalgebra/Linearalgebra.pdf) by Kenneth Kuttler
-* :orange_book: ["Algebra, Topology, Differential Calculus, and Optimization Theory for Computer Science and Machine Learning"](https://www.cis.upenn.edu/~jean/gbooks/geomath.html) by Jean Gallier and Jocelyn Quaintance
 * :orange_book: ["The Matrix Cookbook"](https://www2.imm.dtu.dk/pubdb/edoc/imm3274.pdf) by Kaare Brandt Petersen, and Michael Syskind Pedersen
 * :orange_book: ["Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares"](https://web.stanford.edu/~boyd/vmls/vmls.pdf) by Stephen Boyd and Lieven Vandenberghe
 * :orange_book: ["Linear Algebra for Data Science"](https://drive.google.com/file/d/1nJVwdQV9zp-Q9VQenZF0-HOOG6L2lEOD/view) by Wanmo Kang, and Kyunghyun Cho
