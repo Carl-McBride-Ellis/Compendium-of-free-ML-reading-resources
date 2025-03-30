@@ -49,7 +49,6 @@ Total number of books: **185**
 * :orange_book: ["Introduction to Applied Linear Algebra: Vectors, Matrices, and Least Squares"](https://web.stanford.edu/~boyd/vmls/vmls.pdf) by Stephen Boyd and Lieven Vandenberghe
 * :orange_book: ["Linear Algebra for Data Science"](https://drive.google.com/file/d/1nJVwdQV9zp-Q9VQenZF0-HOOG6L2lEOD/view) by Wanmo Kang, and Kyunghyun Cho
 * :orange_book: ["Linear Algebra for Computer Vision, Robotics, and Machine Learning"](https://www.seas.upenn.edu/~cis5150/linalg-I.pdf) by Jean Gallier and Jocelyn Quaintance
-* :orange_book: ["Spline Methods"](https://www.uio.no/studier/emner/matnat/math/MAT4170/v18/pensumliste/splinebook-2018.pdf) by Tom Lyche, and Knut Mørken
 * :orange_book: ["Matrix Calculus (for Machine Learning and Beyond)"](https://arxiv.org/pdf/2501.14787) by Paige Bright, Alan Edelman, Steven G. Johnson
 * :orange_book: ["Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning"](https://www.cis.upenn.edu/~jean/math-deep.pdf) by Jean Gallier and Jocelyn Quaintance
 * :earth_africa: ["Linear Algebra for Data Science with examples in R"](https://shainarace.github.io/LinearAlgebra/index.html) by Shaina Race Bennett
