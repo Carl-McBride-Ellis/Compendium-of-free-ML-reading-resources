@@ -4,7 +4,7 @@ Key:
 * :earth_africa: html book
 ## ToC
 1. [EDA, visualization, and data cleaning](#eda-visualization-and-data-cleaning) (8)
-2. [Mathematics for ML](#mathematics-for-ml) (14)
+2. [Mathematics for ML](#mathematics-for-ml) (13)
 3. [Statistics and probability](#statistics-and-probability) (16)
 4. [Optimization](#optimization) (7)
 5. [Linear regression](#linear-regression) (6)
@@ -22,7 +22,7 @@ Key:
 17. [Conformal prediction](#conformal-prediction) (5)
 18. [Time series: Forecasting](#time-series-forecasting) (7)
 
-Total number of books: **185**
+Total number of books: **184**
 
 <sub>Note: All books listed here have been made freely available by their respective authors/publishers, and all [arXiv](https://arxiv.org/) papers are inherently free.</sub>
 
@@ -95,7 +95,7 @@ Total number of books: **185**
 ---
 ### Machine learning
 * :orange_book: ["An Introduction to Statistical Learning with Applications in Python"](https://hastie.su.domains/ISLP/ISLP_website.pdf.view-in-google.html) by James, Witten, Hastie, Tibshirani, and Taylor
-* :orange_book: ["The Elements of Statistical Learning"](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf) by Hastie, Tibshirani, and Friedman
+* :orange_book: ["The Elements of Statistical Learning"](https://hastie.su.domains/ElemStatLearn/printings/ESLII_print12_toc.pdf.download.html) by Hastie, Tibshirani, and Friedman
 * :orange_book: ["Computer Age Statistical Inference: Algorithms, Evidence and Data Science"](https://hastie.su.domains/CASI_files/PDF/casi.pdf.download.html) by Bradley Efron and Trevor Hastie
 * :orange_book: ["Pattern Recognition and Machine Learning"](https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf) by Christopher M. Bishop
 * :orange_book: ["Probabilistic Machine Learning: An Introduction"](https://github.com/probml/pml-book/releases/latest/download/book1.pdf) by Kevin Patrick Murphy
@@ -127,7 +127,7 @@ Total number of books: **185**
 * :orange_book: ["Concise Machine Learning"](https://people.eecs.berkeley.edu/~jrs/papers/machlearn.pdf) by Jonathan Richard Shewchuk
 * :orange_book: ["Probabilistic Artificial Intelligence"](https://arxiv.org/pdf/2502.05244) by Andreas Krause, and Jonas Hübotter
 * :orange_book: ["A Brief Introduction to Machine Learning for Engineers"](https://arxiv.org/pdf/1709.02840.pdf) by Osvaldo Simeone
-* :orange_book: ["Machine Learning: The Basics"](https://arxiv.org/pdf/1805.05052.pdf) by Alexander Jung
+* :orange_book: ["Machine Learning: The Basics"](https://arxiv.org/pdf/1805.05052) by Alexander Jung
 * :orange_book: ["A high-bias, low-variance introduction to Machine Learning for physicists"](https://arxiv.org/pdf/1803.08823) by Pankaj Mehta, Marin Bukov, Ching-Hao Wang, Alexandre G.R. Day, Clint Richardson, Charles K. Fisher, David J. Schwab
 * :orange_book: ["Model Evaluation, Model Selection, and Algorithm Selection in Machine Learning"](https://arxiv.org/pdf/1811.12808.pdf) by Sebastian Raschka
 * :orange_book: ["Hyper-Parameter Optimization: A Review of Algorithms and Applications"](https://arxiv.org/pdf/2003.05689.pdf) by Tong Yu and Hong Zhu
