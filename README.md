@@ -20,9 +20,9 @@ Key:
 15. [Natural language processing (NLP) and large language models (LLM)](#natural-language-processing-nlp-and-large-language-models-llm) (13)
 16. [Causal inference](#causal-inference) (9)
 17. [Conformal prediction](#conformal-prediction) (5)
-18. [Time series: Forecasting](#time-series-forecasting) (7)
+18. [Time series: Forecasting](#time-series-forecasting) (6)
 
-Total number of books: **184**
+Total number of books: **183**
 
 <sub>Note: All books listed here have been made freely available by their respective authors/publishers, and all [arXiv](https://arxiv.org/) papers are inherently free.</sub>
 
@@ -261,7 +261,6 @@ Total number of books: **184**
 * :orange_book: ["Forecasting: theory and practice"](https://arxiv.org/pdf/2012.03854.pdf) by Fotios Petropoulos *et al.*
 * :earth_africa: ["Forecasting: theory and practice" (Online version)](https://forecasting-encyclopedia.com/) Editors: Fotios Petropoulos, Yanfei Kang, and  Feng Li
 * :orange_book: ["Forecast Evaluation for Data Scientists: Common Pitfalls and Best Practices"](https://arxiv.org/pdf/2203.10716.pdf) by Hansika Hewamalagea, Klaus Ackermannb, and Christoph Bergmeir
-* :orange_book: ["A Comprehensive Survey of Regression Based Loss Functions for Time Series Forecasting"](https://arxiv.org/pdf/2211.02989.pdf) by Aryan Jadon, Avinash Patil and Shruti Jadon
 * :orange_book: ["Time Series Analysis"](https://batch.libretexts.org/print/Letter/Finished/stats-826/Full.pdf) by Alexander Aue
 * :orange_book: ["Time Series for Macroeconomics and Finance"](https://static1.squarespace.com/static/5e6033a4ea02d801f37e15bb/t/5ed92dcb7665261af1aa23f2/1591291342389/time_series_book.pdf) by John H. Cochrane
 * :earth_africa: ["Demand Forecasting for Executives and Professionals"](https://dfep.netlify.app/) by Stephan Kolassa, Bahman Rostami-Tabar, and Enno Siemsen
