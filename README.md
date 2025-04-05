@@ -1,4 +1,5 @@
-# Compendium of free ML reading resources 
+# Compendium of free ML reading resources
+## Books and reviews
 Key: 
 * :orange_book: pdf file
 * :earth_africa: html book
@@ -11,7 +12,7 @@ Key:
 6. [Machine learning](#machine-learning) (46)
 7. [R realted](#r-realted) (18)
 8. [Feature engineering](#feature-engineering) (2)
-9. [Explainability/interpretability](#explainabilityinterpretability) (5)
+9. [Explainability/interpretability](#explainabilityinterpretability) (6)
 10. [Deep learning / neural networks](#deep-learning--neural-networks) (16)
 11. [Reinforcement learning](#reinforcement-learning) (8)
 12. [Recommender systems](#recommender-systems) (2)
@@ -22,7 +23,7 @@ Key:
 17. [Conformal prediction](#conformal-prediction) (5)
 18. [Time series: Forecasting](#time-series-forecasting) (6)
 
-Total number of books: **183**
+Total number of books: **184**
 
 <sub>Note: All books listed here have been made freely available by their respective authors/publishers, and all [arXiv](https://arxiv.org/) papers are inherently free.</sub>
 
@@ -172,6 +173,7 @@ Total number of books: **183**
 * :orange_book: ["Trustworthy Machine Learning"](http://trustworthymachinelearning.com/trustworthymachinelearning.pdf) by Kush R. Varshney
 * :orange_book: ["Trustworthy Machine Learning: Theory, Applications, Intuitions"](https://twml.cdn.prismic.io/twml/091580bb-9ba5-4821-a80a-d837d4ba1307_Trustworthy+Machine+Learning+book+2023.pdf) by Bálint Mucsányi, Michael Kirchhof, Elisa Nguyen, Alexander Rubinstein, and Seong Joon Oh
 * :orange_book: ["A Comprehensive Guide to Explainable AI: From Classical Models to LLMs"](https://arxiv.org/pdf/2412.00800) by Weiche Hsieh, *et al.*
+* :orange_book: ["Interpretable Machine Learning in Physics: A Review"](https://arxiv.org/pdf/2503.23616) by Wetzel, Ha, Iten, Klopotek, and Liu
 * :earth_africa: ["Interpretable Machine Learning: A Guide for Making Black Box Models Explainable"](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
 * :earth_africa: ["Explanatory Model Analysis"](https://ema.drwhy.ai/) by Przemyslaw Biecek and Tomasz Burzykowski
 
