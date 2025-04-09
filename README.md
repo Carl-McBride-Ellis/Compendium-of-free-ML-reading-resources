@@ -19,11 +19,11 @@ Key:
 13. [Anomaly detection](#anomaly-detection) (1)
 14. [Computer vision](#computer-vision) (2)
 15. [Natural language processing (NLP) and large language models (LLM)](#natural-language-processing-nlp-and-large-language-models-llm) (13)
-16. [Causal inference](#causal-inference) (9)
+16. [Causal inference](#causal-inference) (10)
 17. [Conformal prediction](#conformal-prediction) (5)
 18. [Time series: Forecasting](#time-series-forecasting) (6)
 
-Total number of books: **184**
+Total number of books: **185**
 
 <sub>Note: All books listed here have been made freely available by their respective authors/publishers, and all [arXiv](https://arxiv.org/) papers are inherently free.</sub>
 
@@ -246,6 +246,7 @@ Total number of books: **184**
 * :orange_book: ["Survey and Evaluation of Causal Discovery Methods for Time Series"](https://www.jair.org/index.php/jair/article/view/13428/26917) by Charles K. Assaad, Emilie Devijver, and Eric Gaussier
 * :orange_book: ["Applied Causal Inference Powered by ML and AI"](https://arxiv.org/pdf/2403.02467v1.pdf) by Victor Chernozhukov, Christian Hansen, Nathan Kallus, Martin Spindler, and Vasilis Syrgkanis
 * :orange_book: ["Causal Inference: A Statistical Learning Approach"](https://web.stanford.edu/~swager/causal_inf_book.pdf) by Stefan Wager
+* :orange_book: ["Probability and Causality. Conditional and Average Total Effects"](https://causal-effects.de/get.php?f=1032) by Rolf Steyer
 * :earth_africa: ["Applied Causal Inference"](https://appliedcausalinference.github.io/aci_book/) by Uday Kamath, Kenneth Graham, and Mitchell Naylor
 * :earth_africa: ["Causal Inference for The Brave and True"](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) by Matheus Facure Alves
 
