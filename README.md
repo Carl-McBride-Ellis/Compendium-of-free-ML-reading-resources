@@ -260,7 +260,8 @@ Total number of books: **185**
 
 ---
 ### Time series: Forecasting
-* :earth_africa: ["Forecasting: Principles and Practice"](https://otexts.com/fpp3/) by Rob J Hyndman and George Athanasopoulos
+* :earth_africa: ["Forecasting: Principles and Practice"](https://otexts.com/fpp3/) by Rob J. Hyndman and George Athanasopoulos
+* :earth_africa: ["Forecasting: Principles and Practice, the Pythonic Way"](https://otexts.com/fpppy/) by Rob J. Hyndman, George Athanasopoulos, Azul Garza, Cristian Challu, Max Mergenthaler, and Kin G. Olivares
 * :orange_book: ["Forecasting: theory and practice"](https://arxiv.org/pdf/2012.03854.pdf) by Fotios Petropoulos *et al.*
 * :earth_africa: ["Forecasting: theory and practice" (Online version)](https://forecasting-encyclopedia.com/) Editors: Fotios Petropoulos, Yanfei Kang, and  Feng Li
 * :orange_book: ["Forecast Evaluation for Data Scientists: Common Pitfalls and Best Practices"](https://arxiv.org/pdf/2203.10716.pdf) by Hansika Hewamalagea, Klaus Ackermannb, and Christoph Bergmeir
