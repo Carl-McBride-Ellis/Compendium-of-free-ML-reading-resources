@@ -17,13 +17,13 @@ Key:
 11. [Reinforcement learning](#reinforcement-learning) (8)
 12. [Recommender systems](#recommender-systems) (2)
 13. [Anomaly detection](#anomaly-detection) (1)
-14. [Computer vision](#computer-vision) (2)
+14. [Computer vision](#computer-vision) (3)
 15. [Natural language processing (NLP) and large language models (LLM)](#natural-language-processing-nlp-and-large-language-models-llm) (13)
 16. [Causal inference](#causal-inference) (10)
 17. [Conformal prediction](#conformal-prediction) (5)
 18. [Time series: Forecasting](#time-series-forecasting) (6)
 
-Total number of books: **185**
+Total number of books: **186**
 
 <sub>Note: All books listed here have been made freely available by their respective authors/publishers, and all [arXiv](https://arxiv.org/) papers are inherently free.</sub>
 
@@ -220,6 +220,7 @@ Total number of books: **185**
 ### Computer vision
 * :orange_book: ["Computer Vision:  Models, Learning, and Inference"](https://raw.githubusercontent.com/udlbook/cvbook/main/book.pdf) by Simon J. D. Prince
 * :orange_book: ["Computer Vision: Algorithms and Applications" (1st Ed)](https://szeliski.org/Book/drafts/SzeliskiBook_20100903_draft.pdf) by Richard Szeliski
+* :earth_africa: ["Foundations of Computer Vision"](https://visionbook.mit.edu/) by  Antonio Torralba, Phillip Isola, and William Freeman
 
 ---
 ### Natural language processing (NLP) and large language models (LLM)
