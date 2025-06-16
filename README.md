@@ -9,7 +9,7 @@ Key:
 3. [Statistics and probability](#statistics-and-probability) (16)
 4. [Optimization](#optimization) (7)
 5. [Linear regression](#linear-regression) (6)
-6. [Machine learning](#machine-learning) (46)
+6. [Machine learning](#machine-learning) (47)
 7. [R realted](#r-realted) (18)
 8. [Feature engineering](#feature-engineering) (2)
 9. [Explainability/interpretability](#explainabilityinterpretability) (6)
@@ -23,7 +23,7 @@ Key:
 17. [Conformal prediction](#conformal-prediction) (5)
 18. [Time series: Forecasting](#time-series-forecasting) (6)
 
-Total number of books: **186**
+Total number of books: **187**
 
 <sub>Note: All books listed here have been made freely available by their respective authors/publishers, and all [arXiv](https://arxiv.org/) papers are inherently free.</sub>
 
@@ -126,6 +126,7 @@ Total number of books: **186**
 * :orange_book: ["Foundations of Data Science"](https://www.cs.cornell.edu/jeh/book.pdf) by Avrim Blum, John Hopcroft, and Ravindran Kannan
 * :orange_book: ["Machine Learning Systems: Principles and Practices of Engineering Artificially Intelligent Systems"](https://mlsysbook.ai/Machine-Learning-Systems.pdf) by Vĳay Janapa Reddi
 * :orange_book: ["Concise Machine Learning"](https://people.eecs.berkeley.edu/~jrs/papers/machlearn.pdf) by Jonathan Richard Shewchuk
+* :orange_book: ["Data Science and Machine Learning: Mathematical and Statistical Methods"](https://people.smp.uq.edu.au/DirkKroese/DSML/DSML.pdf) by Dirk P. Kroese, Zdravko I. Botev, Thomas Taimre, and Radislav Vaisman
 * :orange_book: ["Probabilistic Artificial Intelligence"](https://arxiv.org/pdf/2502.05244) by Andreas Krause, and Jonas Hübotter
 * :orange_book: ["A Brief Introduction to Machine Learning for Engineers"](https://arxiv.org/pdf/1709.02840.pdf) by Osvaldo Simeone
 * :orange_book: ["Machine Learning: The Basics"](https://arxiv.org/pdf/1805.05052) by Alexander Jung
