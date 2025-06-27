@@ -9,7 +9,7 @@ Key:
 3. [Statistics and probability](#statistics-and-probability) (16)
 4. [Optimization](#optimization) (7)
 5. [Linear regression](#linear-regression) (6)
-6. [Machine learning](#machine-learning) (47)
+6. [Machine learning](#machine-learning) (48)
 7. [R realted](#r-realted) (18)
 8. [Feature engineering](#feature-engineering) (2)
 9. [Explainability/interpretability](#explainabilityinterpretability) (6)
@@ -23,7 +23,7 @@ Key:
 17. [Conformal prediction](#conformal-prediction) (5)
 18. [Time series: Forecasting](#time-series-forecasting) (6)
 
-Total number of books: **187**
+Total number of books: **188**
 
 <sub>Note: All books listed here have been made freely available by their respective authors/publishers, and all [arXiv](https://arxiv.org/) papers are inherently free.</sub>
 
@@ -142,6 +142,7 @@ Total number of books: **187**
 * :earth_africa: ["Applied Machine Learning for Tabular Data"](https://aml4td.org/) by Max Kuhn, and Kjell Johnson
 * :earth_africa: ["Applied Machine Learning in Python: a Hands-on Guide with Code"](https://geostatsguy.github.io/MachineLearningDemos_Book/intro.html) by Michael J. Pyrcz
 * :earth_africa: ["Learning Data Science"](https://learningds.org/) by Sam Lau, Joey Gonzalez, and Deb Nolan
+* :earth_africa: ["Veridical Data Science: The Practice of Responsible Data Analysis and Decision Making"](https://vdsbook.com/) by Bin Yu, and Rebecca L. Barter
 
 ---
 ### [R](https://www.r-project.org/) realted
