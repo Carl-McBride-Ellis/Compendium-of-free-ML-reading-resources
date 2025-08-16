@@ -23,7 +23,7 @@ Key:
 17. [Conformal prediction](#conformal-prediction) (5)
 18. [Time series: Forecasting](#time-series-forecasting) (6)
 
-Total number of books: **189**
+Total number of books: **190**
 
 <sub>Note: All books listed here have been made freely available by their respective authors/publishers, and all [arXiv](https://arxiv.org/) papers are inherently free.</sub>
 
@@ -52,6 +52,7 @@ Total number of books: **189**
 * :orange_book: ["Linear Algebra for Computer Vision, Robotics, and Machine Learning"](https://www.seas.upenn.edu/~cis5150/linalg-I.pdf) by Jean Gallier and Jocelyn Quaintance
 * :orange_book: ["Matrix Calculus (for Machine Learning and Beyond)"](https://arxiv.org/pdf/2501.14787) by Paige Bright, Alan Edelman, Steven G. Johnson
 * :orange_book: ["Algebra, Topology, Differential Calculus, and Optimization Theory For Computer Science and Machine Learning"](https://www.cis.upenn.edu/~jean/math-deep.pdf) by Jean Gallier and Jocelyn Quaintance
+* :orange_book: ["Foundations of Linear Algebra for Data Science"](https://drive.google.com/file/d/1rQKTjknuHE3HC_9Gyovn4DYZLFe7nBQZ/view?usp=sharing) by Wanmo Kang and Kyunghyun Cho
 * :earth_africa: ["Linear Algebra for Data Science with examples in R"](https://shainarace.github.io/LinearAlgebra/index.html) by Shaina Race Bennett
 
 ---
