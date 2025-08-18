@@ -125,7 +125,7 @@ Total number of books: **190**
 * :orange_book: ["Machine Learning"](https://www.cs.cmu.edu/~tom/files/MachineLearningTomMitchell.pdf) by Tom Mitchell
 * :orange_book: ["Hyperparameter Tuning for Machine and Deep Learning with R: A Practical Guide"](https://link.springer.com/content/pdf/10.1007/978-981-19-5170-1.pdf) Eds.:  Eva Bartz, Thomas Bartz-Beielstein, Martin Zaefferer, and Olaf Mersmann
 * :orange_book: ["Foundations of Data Science"](https://www.cs.cornell.edu/jeh/book.pdf) by Avrim Blum, John Hopcroft, and Ravindran Kannan
-* :orange_book: ["Machine Learning Systems: Principles and Practices of Engineering Artificially Intelligent Systems"](https://mlsysbook.ai/Machine-Learning-Systems.pdf) by Vĳay Janapa Reddi
+* :orange_book: ["Machine Learning Systems: Principles and Practices of Engineering Artificially Intelligent Systems"](https://www.mlsysbook.ai/assets/downloads/Machine-Learning-Systems.pdf) by Vĳay Janapa Reddi
 * :orange_book: ["Concise Machine Learning"](https://people.eecs.berkeley.edu/~jrs/papers/machlearn.pdf) by Jonathan Richard Shewchuk
 * :orange_book: ["Data Science and Machine Learning: Mathematical and Statistical Methods"](https://people.smp.uq.edu.au/DirkKroese/DSML/DSML.pdf) by Dirk P. Kroese, Zdravko I. Botev, Thomas Taimre, and Radislav Vaisman
 * :orange_book: ["Probabilistic Artificial Intelligence"](https://arxiv.org/pdf/2502.05244) by Andreas Krause, and Jonas Hübotter
