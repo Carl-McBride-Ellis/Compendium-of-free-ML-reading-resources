@@ -19,11 +19,11 @@ Key:
 13. [Anomaly detection](#anomaly-detection) (1)
 14. [Computer vision](#computer-vision) (3)
 15. [Natural language processing (NLP) and large language models (LLM)](#natural-language-processing-nlp-and-large-language-models-llm) (13)
-16. [Causal inference](#causal-inference) (11)
+16. [Causal inference](#causal-inference) (12)
 17. [Conformal prediction](#conformal-prediction) (5)
 18. [Time series: Forecasting](#time-series-forecasting) (6)
 
-Total number of books: **190**
+Total number of books: **191**
 
 <sub>Note: All books listed here have been made freely available by their respective authors/publishers, and all [arXiv](https://arxiv.org/) papers are inherently free.</sub>
 
@@ -254,6 +254,7 @@ Total number of books: **190**
 * :orange_book: ["What If"](https://miguelhernan.org/s/hernanrobins_WhatIf_27may25.pdf) by Miguel A. Hernán, and James M. Robins
 * :earth_africa: ["Applied Causal Inference"](https://appliedcausalinference.github.io/aci_book/) by Uday Kamath, Kenneth Graham, and Mitchell Naylor
 * :earth_africa: ["Causal Inference for The Brave and True"](https://matheusfacure.github.io/python-causality-handbook/landing-page.html) by Matheus Facure Alves
+* :earth_africa: ["How to Interpret Statistical Models Using marginaleffects for R and Python"](https://marginaleffects.com/) by Vincent Arel-Bundock, Noah Greifer, and Andrew Heiss
 
 ---
 ### Conformal prediction
