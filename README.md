@@ -1,5 +1,4 @@
 # Compendium of free ML reading resources
-## Books and reviews
 Key: 
 * :orange_book: pdf file
 * :earth_africa: html book
