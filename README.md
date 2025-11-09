@@ -42,7 +42,7 @@ Total number of books: **193**
 * :orange_book: ["Mathematics for Machine Learning"](https://mml-book.github.io/book/mml-book.pdf) by Marc Peter Deisenroth, A. Aldo Faisal, and Cheng Soon Ong
 * :orange_book: ["The Matrix Calculus You Need For Deep Learning"](https://arxiv.org/pdf/1802.01528.pdf) by Terence Parr, and Jeremy Howard
 * :orange_book: ["Matrix Analysis"](https://tropp.caltech.edu/notes/Tro22-Matrix-Analysis-LN.pdf) by Joel A. Tropp
-* :orange_book: ["Linear Algebra Done Wrong"](https://www.math.brown.edu/streil/papers/LADW/LADW_2017-09-04.pdf) by Sergei Treil
+* :orange_book: ["Linear Algebra Done Wrong"](https://www.math.brown.edu/streil/papers/LADW/LADW_2025_08-25.pdf) by Sergei Treil
 * :orange_book: ["Linear Algebra Done Right"](https://link.springer.com/content/pdf/10.1007/978-3-031-41026-0.pdf) by Sheldon Axler
 * :orange_book: ["Linear Algebra, Theory And Applications"](https://d2orq2otfnmxdd.cloudfront.net/books/Linearalgebra/Linearalgebra.pdf) by Kenneth Kuttler
 * :orange_book: ["The Matrix Cookbook"](https://www2.imm.dtu.dk/pubdb/edoc/imm3274.pdf) by Kaare Brandt Petersen, and Michael Syskind Pedersen
