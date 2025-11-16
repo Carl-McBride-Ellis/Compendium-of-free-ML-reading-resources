@@ -173,7 +173,7 @@ Total number of books: **193**
 ---
 ### Explainability/interpretability
 * :orange_book: ["Trustworthy Machine Learning"](http://trustworthymachinelearning.com/trustworthymachinelearning.pdf) by Kush R. Varshney
-* :orange_book: ["Trustworthy Machine Learning: Theory, Applications, Intuitions"](https://twml.cdn.prismic.io/twml/091580bb-9ba5-4821-a80a-d837d4ba1307_Trustworthy+Machine+Learning+book+2023.pdf) by Bálint Mucsányi, Michael Kirchhof, Elisa Nguyen, Alexander Rubinstein, and Seong Joon Oh
+* :orange_book: ["Trustworthy Machine Learning: Theory, Applications, Intuitions"](https://arxiv.org/pdf/2310.08215) by Bálint Mucsányi, Michael Kirchhof, Elisa Nguyen, Alexander Rubinstein, and Seong Joon Oh
 * :orange_book: ["A Comprehensive Guide to Explainable AI: From Classical Models to LLMs"](https://arxiv.org/pdf/2412.00800) by Weiche Hsieh, *et al.*
 * :orange_book: ["Interpretable Machine Learning in Physics: A Review"](https://arxiv.org/pdf/2503.23616) by Wetzel, Ha, Iten, Klopotek, and Liu
 * :earth_africa: ["Interpretable Machine Learning: A Guide for Making Black Box Models Explainable"](https://christophm.github.io/interpretable-ml-book/) by Christoph Molnar
