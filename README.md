@@ -188,7 +188,7 @@ Total number of books: **193**
 * :orange_book: ["Dive into Deep Learning"](https://arxiv.org/pdf/2106.11342.pdf) by Aston Zhang, Zachary C. Lipton, Mu Li, and Alexander J. Smola
 * :orange_book: ["Deep Learning on Graphs"](https://yaoma24.github.io/dlg_book/dlg_book.pdf) by Yao Ma and Jiliang Tang
 * :orange_book: ["Physics-based Deep Learning"](https://browse.arxiv.org/pdf/2109.05237.pdf) by Nils Thuerey, Philipp Holl, Maximilian Mueller, Patrick Schnell, Felix Trost, and Kiwon Um
-* :orange_book: ["Understanding Deep Learning"](https://github.com/udlbook/udlbook/releases/download/v5.0.1/UnderstandingDeepLearning_03_26_25_C.pdf) by Simon J. D. Prince 
+* :orange_book: ["Understanding Deep Learning"](https://github.com/udlbook/udlbook/releases/download/v5.0.2/UnderstandingDeepLearning_05_29_25_C.pdf) by Simon J. D. Prince 
 * :orange_book: ["The Little Book of Deep Learning"](https://fleuret.org/public/lbdl.pdf) by François Fleuret
 * :orange_book: ["Mathematical Introduction to Deep Learning: Methods, Implementations, and Theory"](https://arxiv.org/pdf/2310.20360) by Arnulf Jentzen, Benno Kuckuck, and Philippe von Wurstemberger
 * :orange_book: ["Mathematical theory of deep learning"](https://arxiv.org/pdf/2407.18384) by Philipp Petersen, and Jakob Zech
